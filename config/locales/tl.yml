@@ -1,0 +1,197 @@
+tl: # Tagalog
+  language_options:
+    "Ingles":
+      1
+    "Espanyol":
+      2
+    "Pranses":
+      3
+    "Portuges":
+      4
+    "Alemán":
+      5
+    "Olandes":
+      6
+    "Italyano":
+      7
+    "Basko":
+      8
+    "Katalan":
+      9
+    "Galisyano":
+      10
+    "Polish":
+      11
+    "Suwedés":
+      12
+    "Danish":
+      13
+    "Norwegiano":
+      14
+    "Finnish":
+      15
+    "Wika ng Unggarya":
+      16
+    "Seksiko":
+      17
+    "Slovako":
+      18
+    "Rumanian":
+      19
+    "Bulgarian":
+      20
+    "Kroatian":
+      21
+    "Serbiano":
+      22
+    "Bosnyak":
+      23
+    "Estoniyano":
+      24
+    "Latvian":
+      25
+    "Lituano":
+      26
+    "Griyego":
+      27
+    "Hebreo":
+      28
+    "Arabo":
+      29
+    "Turko":
+      30
+    "Thai":
+      31
+    "Ruso":
+      32
+    "Ukrainiano":
+      33
+    "Persiano":
+      34
+    "Swahili":
+      35
+    "Hindi":
+      36
+    "Tamil":
+      37
+    "Indonesian":
+      38
+    "Vietnamese":
+      39
+    "Tsino":
+      40
+    "Koreano":
+      41
+    "Hapones":
+      42
+    "Melayu":
+      43
+    "Aserbeycan":
+      44
+    "Armenian":
+      45
+    "Kazako":
+      46
+    "Macedonian":
+      47
+    "Māori":
+      48
+    "Nepalese":
+      49
+    "Islándik":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kanada":
+      53
+    "Marathi":
+      54
+    "Slovenian":
+      55
+    "Wels":
+      56
+    "Belarusyano":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Nagsisimula (A1)":
+      1
+    "Pre-intermediate (A2)":
+      2
+    "Katamtamang antas (B1)":
+      3
+    "Mataas na intermediate (B2)":
+      4
+    "Sopistikado (C1)":
+      5
+    "Nakapagpahusay (C2)":
+      6
+  normal_texts: 
+    "Mga normal na teksto"
+  type_topic_conversation: 
+    "I-type ang paksa ng pag-uusap"
+  type_topic_monologue: 
+    "I-type ang paksa ng monologo"
+  topic_entered: 
+    "Ilagay ang paksa ng pag-uusap"
+  new_conversation: 
+    "Bagong Usapan"
+  new_monologue: 
+    "Bagong Monologo"
+  conversation_level_selected: 
+    "Antas ng pag-uusap"
+  languages_selected: 
+    "Mga Napiling Wika"
+  back_to_create_a_new_conversation: 
+    "Bumalik sa Lumikha ng Bagong Usapan"
+  pronounced as: 
+    "binibigkas bilang"
+  according_to_phonetic_transcription: 
+    "ayon sa Internasyonal na Pambalarilang Alpabeto"
+  no_conversations_available: 
+    "Walang Magagamit na Usapan"
+  no_monologues_available: 
+    "Walang mga monologo na magagamit"
+  audience: 
+    "Madla"
+  language: 
+    "Wika"
+  tokens_used: 
+    "Ginamit na mga token"
+  view: 
+    "Tumingin"
+  please_wait: 
+    "Pakiusap, maghintay"
+  search: 
+    "Maghanap"
+  create_conversation: 
+    "Lumikha ng Usapan"
+  create_monologue: 
+    "Lumikha ng Monologo"
+  select_language_1: 
+    "Pumili ng unang wika"
+  select_language_2: 
+    "Pumili ng pangalawang wika"
+  select_conversation_level: 
+    "Pumili ng Antas ng Usapan"
+  select_monologue_level: 
+    "Pumili ng Antas ng Monologo"
+  find_more_conversations_created: 
+    "Maghanap ng Higit pang mga Usapan na Nilikha"
+  find_more_monologues_created: 
+    "Maghanap ng Higit pang mga Monologo na Nilikhang"
+  we_are_creating_your_bilingual_conversation: 
+    "Nagsasagawa kami ng iyong bilingual na pag-uusap"
+  we_are_creating_your_bilingual_monologue: 
+    "Nagmumuni-muni kami ng iyong bilingual na monologo"
+  search_language: 
+    "Maghanap ng wika"
+  no_results_found: 
+    "Walang nahanap na resulta"
+  enable_audio_language_1:
+    "I-enable ang audio para sa unang wika"
+  enable_audio_language_2:
+    "Paganahin ang audio para sa ikalawang wika"

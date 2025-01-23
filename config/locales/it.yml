@@ -1,0 +1,197 @@
+it: # Italian
+  language_options:
+    "Inglese":
+      1
+    "Spagnolo":
+      2
+    "Francese":
+      3
+    "Portoghese":
+      4
+    "Tedesco":
+      5
+    "Olandese":
+      6
+    "Italiano":
+      7
+    "Basco":
+      8
+    "Catalano":
+      9
+    "Galiziano":
+      10
+    "Polacco":
+      11
+    "Svedese":
+      12
+    "Danese":
+      13
+    "Norvegese":
+      14
+    "Finlandese":
+      15
+    "Ungherese":
+      16
+    "Ceco":
+      17
+    "Slovacco":
+      18
+    "Rumeno":
+      19
+    "Bulgaro":
+      20
+    "Croato":
+      21
+    "Serbo":
+      22
+    "Bosniaco":
+      23
+    "Estone":
+      24
+    "Lettone":
+      25
+    "Lituano":
+      26
+    "Greco":
+      27
+    "Ebraico":
+      28
+    "Arabo":
+      29
+    "Turco":
+      30
+    "Thailandese":
+      31
+    "Russo":
+      32
+    "Ucraino":
+      33
+    "Persiano":
+      34
+    "Swahili":
+      35
+    "Hindi":
+      36
+    "Tamil":
+      37
+    "Indonesiano":
+      38
+    "Vietnamese":
+      39
+    "Cinese":
+      40
+    "Coreano":
+      41
+    "Giapponese":
+      42
+    "Malese":
+      43
+    "Azerbaigiano":
+      44
+    "Armeno":
+      45
+    "Kazako":
+      46
+    "Macedone":
+      47
+    "Maori":
+      48
+    "Nepalese":
+      49
+    "Islandese":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Sloveno":
+      55
+    "Gallese":
+      56
+    "Bielorusso":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Principiante (A1)":
+      1
+    "Pre-intermedio (A2)":
+      2
+    "Intermedio (B1)":
+      3
+    "Intermedio superiore (B2)":
+      4
+    "Avanzato (C1)":
+      5
+    "Competente (C2)":
+      6
+  normal_texts: 
+    "Testi normali"
+  type_topic_conversation: 
+    "Scrivi l'argomento della conversazione"
+  type_topic_monologue: 
+    "Scrivi il tema del monologo"
+  topic_entered: 
+    "Inserisci l'argomento della conversazione"
+  new_conversation: 
+    "Nuova conversazione"
+  new_monologue: 
+    "Nuovo Monologo"
+  conversation_level_selected: 
+    "Livello di conversazione"
+  languages_selected: 
+    "Lingue selezionate"
+  back_to_create_a_new_conversation: 
+    "Torna a creare una nuova conversazione"
+  pronounced as: 
+    "pronunciato come"
+  according_to_phonetic_transcription: 
+    "secondo l'Alfabeto Fonetico Internazionale"
+  no_conversations_available: 
+    "Nessuna conversazione disponibile"
+  no_monologues_available: 
+    "Nessun monologo disponibile"
+  audience: 
+    "Pubblico"
+  language: 
+    "Lingua"
+  tokens_used: 
+    "Token utilizzati"
+  view: 
+    "Visualizza"
+  please_wait: 
+    "Per favore aspetta"
+  search: 
+    "Cerca"
+  create_conversation: 
+    "Crea conversazione"
+  create_monologue: 
+    "Crea monologo"
+  select_language_1: 
+    "Seleziona la prima lingua"
+  select_language_2: 
+    "Seleziona la seconda lingua"
+  select_conversation_level: 
+    "Seleziona il livello di conversazione"
+  select_monologue_level: 
+    "Seleziona il livello del monologo"
+  find_more_conversations_created: 
+    "Trova altre conversazioni create"
+  find_more_monologues_created: 
+    "Trova più monologhi creati"
+  we_are_creating_your_bilingual_conversation: 
+    "Stiamo creando la tua conversazione bilingue"
+  we_are_creating_your_bilingual_monologue: 
+    "Stiamo creando il tuo monologo bilingue"
+  search_language: 
+    "Cerca lingua"
+  no_results_found: 
+    "Nessun risultato trovato"
+  enable_audio_language_1:
+    "Abilita l'audio per la prima lingua"
+  enable_audio_language_2:
+    "Attiva l'audio per la seconda lingua"

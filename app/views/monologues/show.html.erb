@@ -1,0 +1,107 @@
+<% content_for :title, @monologue.automatic_title_topic + " - " + title_navbar() %>
+
+<p style="color: green">
+    <%= 
+        # Created with the scaffold
+        #notice 
+    %>
+</p>
+
+
+<%=   
+  # Created with the scaffold
+  # render @monologue # Prints all the data from the correspondent row of the table Monologues
+%>
+
+<!-- Created by Morani - Audio result _ Fixed audio player below navbar -->
+<div class="d-flex justify-content-center align-items-center">
+    <audio controls class="ebriwer-audio-1 w-75 ebriwer-audio-fixed-top-1">
+        <source src="<%= @monologue.audio_path %>" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+
+
+
+<!-- Created by Morani - Text result -->
+<div class="container-fluid d-flex flex-column ebriwer-fable-frame-1 ebriwer-padding-fixed-audio-player-1 ebriwer-padding-horizontal-audio-player-signals-1">
+    <!-- The title story -->
+    <h1 class="display-4 fst-italic text-center"> <%= "«" + @monologue.automatic_title_topic + "»" %> </h1>
+
+    <p class="fst-italic text-center fs-4">
+        <%= t('monologue_level_selected') + ": " %>
+        <strong>
+            <%= I18n.t('language_learning_levels').invert[@monologue.level_number] %>
+        </strong>
+        <br>
+        <%= t('languages_selected') + ": " %>
+        <strong>       
+            <%= I18n.t('language_options').invert[@monologue.language_1] %> - <%= I18n.t('language_options').invert[@monologue.language_2] %>       
+        </strong>
+    </p>
+
+
+    
+    <div class="table-responsive ">
+        <table class="table table-dark table-striped table-bordered align-middle text-center  ">
+            <thead class="fs-6">
+                <tr>
+                    <th scope="col"><%= I18n.t('language_options').invert[@monologue.language_1] %></th>
+                    <th scope="col"><%= I18n.t('language_options').invert[@monologue.language_2] %></th>
+                    <th scope="col"><%= I18n.t('language_options').invert[@monologue.language_2] %> <%= t('pronounced_as') %>  <%= I18n.t('language_options').invert[@monologue.language_1] %></th>
+                    <th scope="col"><%= I18n.t('language_options').invert[@monologue.language_2] %></th>                    
+                    <th scope="col"><%= I18n.t('language_options').invert[@monologue.language_2] %> <br> <%= t('according_to_phonetic_transcription') %> (IPA)</th>
+                    
+                </tr>
+            </thead>
+            <tbody class="table-group-divider fs-6">
+                <% @monologue.monologue["monologue"].each_with_index do |monologue_item, index| %>
+                        <tr>
+                            <td><%= monologue_item["monologue_language_1"] %></td>
+                            <td><%= monologue_item["monologue_language_2"] %></td>
+                            <td><%= monologue_item["monologue_language_2_as_language_1"] %></td> 
+                            <td>
+                                <% audio_line = monologue_item["audio2_path"] %> 
+                                <% if monologue_item["audio2_path"].present? %>
+                                    <audio controls class="ebriwer-audio-1">                                                                       
+                                        <source src="<%= audio_line %>" type="audio/mpeg">
+                                        Your browser does not support the audio element.
+                                    </audio>
+                                <% else %>                                    
+                                <% end %>                                
+                            </td> 
+                            <td><%= monologue_item["monologue_language_2_in_ipa"] %></td>
+                                                           
+                        </tr>                            
+                <% end %>
+            </tbody>
+        </table>
+    </div>
+    
+    <div class="d-flex justify-content-center align-items-center">
+        <audio controls class="ebriwer-audio-1 w-75 ">
+            <source src="<%= @monologue.audio_path %>" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <p class="fs-5"><strong><%= t('topic_entered') %>: </strong>"<%= @monologue.custom_topic %>"</p>
+    <p class="fs-6"><strong><%= t('tokens_used') %>: </strong>"<%= @monologue.tokens_monologue %>"</p>
+
+    <!-- Created with the scaffold -->
+
+    <%= 
+        # link_to "Edit this monologue", edit_monologue_path(@monologue) 
+    %>
+    <%= link_to t('back_to_create_a_new_monologue'), new_monologue_path, class: "ebriwer-link-color-1 fw-bold" %>
+    
+    <%= 
+        # button_to "Destroy this monologue", @monologue, method: :delete 
+    %>
+
+    <br>
+
+    
+        
+</div>
+

@@ -1,0 +1,197 @@
+af: # Afrikaans
+  language_options:
+    "Engels":
+      1
+    "Spaans":
+      2
+    "Frans":
+      3
+    "Portugees":
+      4
+    "Duits":
+      5
+    "Nederlands":
+      6
+    "Italiaans":
+      7
+    "Baskies":
+      8
+    "Katalan":
+      9
+    "Galisies":
+      10
+    "Pools":
+      11
+    "Sweedies":
+      12
+    "Deens":
+      13
+    "Noors":
+      14
+    "Fins":
+      15
+    "Hongaars":
+      16
+    "Tsjeggies":
+      17
+    "Slowaaks":
+      18
+    "Roemeens":
+      19
+    "Bulgaars":
+      20
+    "Kroaties":
+      21
+    "Servies":
+      22
+    "Bosnies":
+      23
+    "Estonies":
+      24
+    "Latvis":
+      25
+    "Litouws":
+      26
+    "Grieks":
+      27
+    "Hebreeus":
+      28
+    "Arabies":
+      29
+    "Turks":
+      30
+    "Thai":
+      31
+    "Russies":
+      32
+    "Oekraïens":
+      33
+    "Persies":
+      34
+    "Swaheli":
+      35
+    "Hindi":
+      36
+    "Tamil":
+      37
+    "Indonesies":
+      38
+    "Vietnamees":
+      39
+    "Chinees":
+      40
+    "Koreaans":
+      41
+    "Japanees":
+      42
+    "Maleis":
+      43
+    "Aserbeidsjan":
+      44
+    "Armeens":
+      45
+    "Kazaks":
+      46
+    "Macedonies":
+      47
+    "Maori":
+      48
+    "Nepalees":
+      49
+    "IJslands":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Sloveens":
+      55
+    "Wels":
+      56
+    "Wit-Russies":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Beginner (A1)":
+      1
+    "Voorlopig (A2)":
+      2
+    "Tussentydse (B1)":
+      3
+    "Boven gemiddeld (B2)":
+      4
+    "Gevorderd (C1)":
+      5
+    "Vervaardig (C2)":
+      6
+  normal_texts: 
+    "Normale teks"
+  type_topic_conversation: 
+    "Gee die onderwerp van gesprek"
+  type_topic_monologue: 
+    "Tik die onderwerp van die monoloog"
+  topic_entered: 
+    "Onderwerp ingevoer"
+  new_conversation: 
+    "Nuwe gesprek"
+  new_monologue: 
+    "Nuwe Monoloog"
+  conversation_level_selected: 
+    "Gesprekvlak"
+  languages_selected: 
+    "Tale gekies"
+  back_to_create_a_new_conversation: 
+    "Terug na 'n nuwe gesprek skep"
+  pronounced as: 
+    "uitgespreek as"
+  according_to_phonetic_transcription: 
+    "volgens die Internasionale Fonetiese Alfabet"
+  no_conversations_available: 
+    "Geen gesprekke beskikbaar"
+  no_monologues_available: 
+    "Geen monoloë beskikbaar"
+  audience: 
+    "Gehoor"
+  language: 
+    "Taal"
+  tokens_used: 
+    "Tokens gebruik"
+  view: 
+    "Kyk"
+  please_wait: 
+    "Asseblief wag"
+  search: 
+    "Soek"
+  create_conversation: 
+    "Skep gesprek"
+  create_monologue: 
+    "Skep Monoloog"
+  select_language_1: 
+    "Kies eerste taal"
+  select_language_2: 
+    "Kies tweede taal"
+  select_conversation_level: 
+    "Kies gesprekvlak"
+  select_monologue_level: 
+    "Kies monoloogvlak"
+  find_more_conversations_created: 
+    "Vind Meer Gesprekke Gemaak"
+  find_more_monologues_created: 
+    "Vind Meer Monoloë Gemaak"
+  we_are_creating_your_bilingual_conversation: 
+    "Ons skep jou tweetalige gesprek"
+  we_are_creating_your_bilingual_monologue: 
+    "Ons skep jou tweetalige monoloog"
+  search_language: 
+    "Soektaal"
+  no_results_found: 
+    "Geen resultate gevind"
+  enable_audio_language_1:
+    "Skakel audio aan vir die eerste taal"
+  enable_audio_language_2:
+    "Skakel audio aan vir die tweede taal"

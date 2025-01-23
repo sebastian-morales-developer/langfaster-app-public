@@ -1,0 +1,197 @@
+nr: # Norwegian
+  language_options:
+    "Engelsk":
+      1
+    "Spansk":
+      2
+    "Fransk":
+      3
+    "Portugisisk":
+      4
+    "Tysk":
+      5
+    "Nederlandsk":
+      6
+    "Italiensk":
+      7
+    "Baskisk":
+      8
+    "Katalansk":
+      9
+    "Galego":
+      10
+    "Polsk":
+      11
+    "Svensk":
+      12
+    "Dansk":
+      13
+    "Norsk":
+      14
+    "Finsk":
+      15
+    "Ungarsk":
+      16
+    "Tsjekkisk":
+      17
+    "Slovakisk":
+      18
+    "Rumensk":
+      19
+    "Bulgarsk":
+      20
+    "Kroatisk":
+      21
+    "Serbisk":
+      22
+    "Bosnisk":
+      23
+    "Estisk":
+      24
+    "Latvisk":
+      25
+    "Litauisk":
+      26
+    "Gresk":
+      27
+    "Hebraisk":
+      28
+    "Arabisk":
+      29
+    "Tyrkisk":
+      30
+    "Thai":
+      31
+    "Russisk":
+      32
+    "Ukrainsk":
+      33
+    "persisk":
+      34
+    "Swahili":
+      35
+    "Hindi":
+      36
+    "Tamil":
+      37
+    "Indonesisk":
+      38
+    "Vietnamesisk":
+      39
+    "Kinesisk":
+      40
+    "Koreansk":
+      41
+    "Japansk":
+      42
+    "Malayisk":
+      43
+    "Aserbajdsjansk":
+      44
+    "armensk":
+      45
+    "Kasakhisk":
+      46
+    "Makedonsk":
+      47
+    "Maori":
+      48
+    "Nepali":
+      49
+    "Islandsk":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slovensk":
+      55
+    "Walisisk":
+      56
+    "Hviterussisk":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Beginner (A1)":
+      1
+    "Pre-intermediate (A2)":
+      2
+    "Moderat (B1)":
+      3
+    "Over middels (B2)":
+      4
+    "Avansert (C1)":
+      5
+    "Dyktig (C2)":
+      6
+  normal_texts: 
+    "Normale tekster"
+  type_topic_conversation: 
+    "Skriv emnet for samtalen"
+  type_topic_monologue: 
+    "Skriv emnet for monologen"
+  topic_entered: 
+    "Emnet som ble skrevet inn"
+  new_conversation: 
+    "Ny samtale"
+  new_monologue: 
+    "Ny monolog"
+  conversation_level_selected: 
+    "Samtalenivå"
+  languages_selected: 
+    "Språk valgt"
+  back_to_create_a_new_conversation: 
+    "Tilbake til å opprette en ny samtale"
+  pronounced as: 
+    "uttales som"
+  according_to_phonetic_transcription: 
+    "ifølge det internasjonale fonetiske alfabetet"
+  no_conversations_available: 
+    "Ingen samtaler tilgjengelig"
+  no_monologues_available: 
+    "Ingen monologer tilgjengelig"
+  audience: 
+    "Publikum"
+  language: 
+    "Språk"
+  tokens_used: 
+    "Tokens brukt"
+  view: 
+    "Visning"
+  please_wait: 
+    "Vennligst vent"
+  search: 
+    "Søk"
+  create_conversation: 
+    "Opprett samtale"
+  create_monologue: 
+    "Lag monolog"
+  select_language_1: 
+    "Velg først språk"
+  select_language_2: 
+    "Velg andrespråk"
+  select_conversation_level: 
+    "Velg samtalenivå"
+  select_monologue_level: 
+    "Velg monolognivå"
+  find_more_conversations_created: 
+    "Finn flere samtaler opprettet"
+  find_more_monologues_created: 
+    "Finn flere monologer laget"
+  we_are_creating_your_bilingual_conversation: 
+    "Vi lager din tospråklige samtale"
+  we_are_creating_your_bilingual_monologue: 
+    "Vi lager ditt tospråklige monolog."
+  search_language: 
+    "Søk språk"
+  no_results_found: 
+    "Ingen resultater funnet"
+  enable_audio_language_1:
+    "Aktiver lyd for førstespråk"
+  enable_audio_language_2:
+    "Aktiver lyd for andrespråket"

@@ -1,0 +1,110 @@
+<% content_for :title, @conversation.automatic_title_topic + " - " + title_navbar() %>
+
+<p style="color: green">
+    <%= 
+        # Created with the scaffold
+        #notice 
+    %>
+</p>
+
+
+<%=   
+  # Created with the scaffold
+  # render @conversation # Prints all the data from the correspondent row of the table Conversations
+%>
+
+<!-- Created by Morani - Audio result _ Fixed audio player below navbar -->
+<div class="d-flex justify-content-center align-items-center">
+    <audio controls class="ebriwer-audio-1 w-75 ebriwer-audio-fixed-top-1">
+        <source src="<%= @conversation.audio_path %>" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+
+
+
+<!-- Created by Morani - Text result -->
+<div class="container-fluid d-flex flex-column ebriwer-fable-frame-1 ebriwer-padding-fixed-audio-player-1 ebriwer-padding-horizontal-audio-player-signals-1">
+    <!-- The title story -->
+    <h1 class="display-4 fst-italic text-center"> <%= "«" + @conversation.automatic_title_topic + "»" %> </h1>
+
+    <p class="fst-italic text-center fs-4">
+        <%= t('conversation_level_selected') + ": " %>
+        <strong>
+            <%= I18n.t('language_learning_levels').invert[@conversation.level_number] %>
+        </strong>
+        <br>
+        <%= t('languages_selected') + ": " %>
+        <strong>       
+            <%= I18n.t('language_options').invert[@conversation.language_1] %> - <%= I18n.t('language_options').invert[@conversation.language_2] %>       
+        </strong>
+    </p>
+
+
+    
+    <div class="table-responsive ">
+        <table class="table table-dark table-striped table-bordered align-middle text-center  ">
+            <thead class="fs-6">
+                <tr>
+                    <th scope="col"></th>
+                    <th scope="col"><%= I18n.t('language_options').invert[@conversation.language_1] %></th>
+                    <th scope="col"><%= I18n.t('language_options').invert[@conversation.language_2] %></th>
+                    <th scope="col"><%= I18n.t('language_options').invert[@conversation.language_2] %> <%= t('pronounced_as') %>  <%= I18n.t('language_options').invert[@conversation.language_1] %></th>
+                    <th scope="col"><%= I18n.t('language_options').invert[@conversation.language_2] %></th>   
+                    <th scope="col"><%= I18n.t('language_options').invert[@conversation.language_2] %> <br> <%= t('according_to_phonetic_transcription') %> (IPA)</th>
+                </tr>
+            </thead>
+            <tbody class="table-group-divider fs-6">
+                <% @conversation.conversation["dialog"].each_with_index do |dialog_item, index| %>
+                    <% if index != 0 %>
+                        <tr>
+                            <td><strong><%= dialog_item["speaker"] %></strong></td>
+                            <td><%= dialog_item["dialogue_language_1"] %></td>
+                            <td><%= dialog_item["dialogue_language_2"] %></td>
+                            <td><%= dialog_item["dialogue_language_2_as_language_1"] %></td>   
+                            <td>
+                                <% audio_line = dialog_item["audio2_path"] %> 
+                                <% if dialog_item["audio2_path"].present? %>
+                                    <audio controls class="ebriwer-audio-1">                                                                       
+                                        <source src="<%= audio_line %>" type="audio/mpeg">
+                                        Your browser does not support the audio element.
+                                    </audio>
+                                <% else %>                                    
+                                <% end %>                                
+                            </td>  
+                            <td><%= dialog_item["dialogue_language_2_in_ipa"] %></td>
+                                                        
+                        </tr>                            
+                    <% end %>
+                <% end %>
+            </tbody>
+        </table>
+    </div>
+    
+    <div class="d-flex justify-content-center align-items-center">
+        <audio controls class="ebriwer-audio-1 w-75">
+            <source src="<%= @conversation.audio_path %>" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <p class="fs-5"><strong><%= t('topic_entered') %>: </strong>"<%= @conversation.custom_topic %>"</p>
+    <p class="fs-6"><strong><%= t('tokens_used') %>: </strong>"<%= @conversation.tokens_conversation %>"</p>
+
+    <!-- Created with the scaffold -->
+
+    <%= 
+        # link_to "Edit this conversation", edit_conversation_path(@conversation) 
+    %>
+    <%= link_to t('back_to_create_a_new_conversation'), new_conversation_path, class: "ebriwer-link-color-1 fw-bold" %>
+    
+    <%= 
+        # button_to "Destroy this conversation", @conversation, method: :delete 
+    %>
+
+    <br>
+
+    
+        
+</div>
+

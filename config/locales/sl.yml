@@ -1,0 +1,197 @@
+sl: # Slovenian
+  language_options:
+    "Angleščina":
+      1
+    "Španščina":
+      2
+    "Francosko":
+      3
+    "Portuguščina":
+      4
+    "Nemščina":
+      5
+    "Nizozemščina":
+      6
+    "Italijanščina":
+      7
+    "Baskovščina":
+      8
+    "Katalonščina":
+      9
+    "galicijščina":
+      10
+    "Poljščina":
+      11
+    "Švedščina":
+      12
+    "Danska":
+      13
+    "Norveščina":
+      14
+    "Finski":
+      15
+    "madžarščina":
+      16
+    "Češčina":
+      17
+    "Slovaščina":
+      18
+    "Romunščina":
+      19
+    "Bolgarščina":
+      20
+    "Hrvaški":
+      21
+    "Srbščina":
+      22
+    "bošnjaški":
+      23
+    "Estonščina":
+      24
+    "Latvijščina":
+      25
+    "Litvanščina":
+      26
+    "Grški":
+      27
+    "Hebrejščina":
+      28
+    "Arabščina":
+      29
+    "Turščina":
+      30
+    "Tajski":
+      31
+    "Ruščina":
+      32
+    "Ukrainščina":
+      33
+    "Perzijščina":
+      34
+    "svahili":
+      35
+    "hindi":
+      36
+    "Tamilščina":
+      37
+    "Indonezijščina":
+      38
+    "Vietnamščina":
+      39
+    "Kitajščina":
+      40
+    "Korejščina":
+      41
+    "japonščina":
+      42
+    "Malajščina":
+      43
+    "Azerbejdžanščina":
+      44
+    "Armenski":
+      45
+    "Kazahščina":
+      46
+    "Makedonski":
+      47
+    "Maorščina":
+      48
+    "Nepalski":
+      49
+    "Islamski":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slovenščina":
+      55
+    "Welščina":
+      56
+    "Belarúski":
+      57
+    "urdščina":
+      58
+  language_learning_levels:
+    "Začetnik (A1)":
+      1
+    "Srednje začetni (A2)":
+      2
+    "Srednji (B1)":
+      3
+    "Nadpovprečen (B2)":
+      4
+    "Napredno (C1)":
+      5
+    "Usposobljen (C2)":
+      6
+  normal_texts: 
+    "Normalna besedila"
+  type_topic_conversation: 
+    "Napišite temo pogovora"
+  type_topic_monologue: 
+    "Napiši temo monologa"
+  topic_entered: 
+    "Vnesite temo pogovora"
+  new_conversation: 
+    "Nova pogovor"
+  new_monologue: 
+    "Nov monolog"
+  conversation_level_selected: 
+    "Raven pogovora"
+  languages_selected: 
+    "Izbrani jeziki"
+  back_to_create_a_new_conversation: 
+    "Nazaj k ustvarjanju novega pogovora"
+  pronounced as: 
+    "izgovarja se kot"
+  according_to_phonetic_transcription: 
+    "v skladu z Mednarodno fonetično abecedo"
+  no_conversations_available: 
+    "Ni na voljo pogovorov"
+  no_monologues_available: 
+    "Ni na voljo monologov"
+  audience: 
+    "Publika"
+  language: 
+    "Jezik"
+  tokens_used: 
+    "Uporabljeni žetoni"
+  view: 
+    "Pogled"
+  please_wait: 
+    "Prosimo, da počakate"
+  search: 
+    "Iskanje"
+  create_conversation: 
+    "Ustvarite pogovor"
+  create_monologue: 
+    "Ustvari monolog"
+  select_language_1: 
+    "Izberite prvi jezik"
+  select_language_2: 
+    "Izberite drugi jezik"
+  select_conversation_level: 
+    "Izberite raven pogovora"
+  select_monologue_level: 
+    "Izberite monolog nivo"
+  find_more_conversations_created: 
+    "Najdi več pogovorov ustvarjenih"
+  find_more_monologues_created: 
+    "Najdi več monologov."
+  we_are_creating_your_bilingual_conversation: 
+    "Ustvarjamo vaš dvojezični pogovor"
+  we_are_creating_your_bilingual_monologue: 
+    "Ustvarjamo vaš dvojezični monolog"
+  search_language: 
+    "Išči jezik"
+  no_results_found: 
+    "Ni bilo najdenih rezultatov."
+  enable_audio_language_1:
+    "Omogočite zvok za prvi jezik"
+  enable_audio_language_2:
+    "Omogočite zvok za drugi jezik"

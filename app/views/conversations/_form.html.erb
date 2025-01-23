@@ -1,0 +1,62 @@
+<%= form_with(model: conversation) do |form| %>
+  <% if conversation.errors.any? %>
+    <div style="color: red">
+      <h2><%= pluralize(conversation.errors.count, "error") %> prohibited this conversation from being saved:</h2>
+
+      <ul>
+        <% conversation.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div>
+    <%= form.label :language_1, style: "display: block" %>
+    <%= form.number_field :language_1 %>
+  </div>
+
+  <div>
+    <%= form.label :language_2, style: "display: block" %>
+    <%= form.number_field :language_2 %>
+  </div>
+
+  <div>
+    <%= form.label :level_number, style: "display: block" %>
+    <%= form.number_field :level_number %>
+  </div>
+
+  <div>
+    <%= form.label :enable_audio, style: "display: block" %>
+    <%= form.checkbox :enable_audio %>
+  </div>
+
+  <div>
+    <%= form.label :conversation, style: "display: block" %>
+    <%= form.text_field :conversation %>
+  </div>
+
+  <div>
+    <%= form.label :audio_path, style: "display: block" %>
+    <%= form.textarea :audio_path %>
+  </div>
+
+  <div>
+    <%= form.label :tokens_conversation, style: "display: block" %>
+    <%= form.number_field :tokens_conversation %>
+  </div>
+
+  <div>
+    <%= form.label :custom_topic, style: "display: block" %>
+    <%= form.textarea :custom_topic %>
+  </div>
+
+  <div>
+    <%= form.label :automatic_title_topic, style: "display: block" %>
+    <%= form.textarea :automatic_title_topic %>
+  </div>
+
+  <div>
+    <%= form.submit %>
+  </div>
+<% end %>

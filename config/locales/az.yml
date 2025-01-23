@@ -1,0 +1,197 @@
+az: # Azerbaijani
+  language_options:
+    "İngilis":
+      1
+    "İspan dili":
+      2
+    "Fransızca":
+      3
+    "Portuqal dili":
+      4
+    "Alman":
+      5
+    "Holland dili":
+      6
+    "İtalyan":
+      7
+    "Bask":
+      8
+    "Katalan":
+      9
+    "Qalisiya":
+      10
+    "Polşa":
+      11
+    "İsveç dili":
+      12
+    "Danimarkaca":
+      13
+    "Norveç dili":
+      14
+    "Fins dili":
+      15
+    "Macarca":
+      16
+    "Çex dili":
+      17
+    "Slovakca":
+      18
+    "Rumıniya":
+      19
+    "Bulgarca":
+      20
+    "Xorvat dili":
+      21
+    "Serb dili":
+      22
+    "Boşnakca":
+      23
+    "Eston dili":
+      24
+    "Latviya":
+      25
+    "Litvan dili":
+      26
+    "Yunan dili":
+      27
+    "İvrit":
+      28
+    "Ərəb dili":
+      29
+    "Türk dili":
+      30
+    "Tay dili":
+      31
+    "Rus dili":
+      32
+    "Ukraynaca":
+      33
+    "Fars dili":
+      34
+    "Svahili":
+      35
+    "Hint dili":
+      36
+    "Tamil":
+      37
+    "İndoneziya":
+      38
+    "Vyetnamca":
+      39
+    "Çin dili":
+      40
+    "Koreya dili":
+      41
+    "Yapon dili":
+      42
+    "Malayca":
+      43
+    "Azərbaycanca":
+      44
+    "Erməni":
+      45
+    "Qazax dili":
+      46
+    "Makedonca":
+      47
+    "Maori":
+      48
+    "Nepal dili":
+      49
+    "İsland dili":
+      50
+    "Afrikanca":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slovenski":
+      55
+    "Valş dili":
+      56
+    "Belarusiya":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Başlanğıc (A1)":
+      1
+    "Orta səviyyə (A2)":
+      2
+    "Orta (B1)":
+      3
+    "Yuxarı orta (B2)":
+      4
+    "İrəliləmiş (C1)":
+      5
+    "Peşəkar (C2)":
+      6
+  normal_texts: 
+    "Normal mətnlər"
+  type_topic_conversation: 
+    "Söhbət mövzusunu yazın"
+  type_topic_monologue: 
+    "Monoloqun mövzusunu yazın"
+  topic_entered: 
+    "Müzakirə mövzusunu daxil edin"
+  new_conversation: 
+    "Yeni müzakirə"
+  new_monologue: 
+    "Yeni Monoloq"
+  conversation_level_selected: 
+    "Söhbət səviyyəsi"
+  languages_selected: 
+    "Seçilmiş dillər"
+  back_to_create_a_new_conversation: 
+    "Yeni Müzakirə Yaratmağa Qayıt"
+  pronounced as: 
+    "tələffüz olunur"
+  according_to_phonetic_transcription: 
+    "Beynəlxalq Fonetik Alfabeyə görə"
+  no_conversations_available: 
+    "Danışıq yoxdur"
+  no_monologues_available: 
+    "Monoloq yoxdur"
+  audience: 
+    "Tamaşaçı"
+  language: 
+    "Dil"
+  tokens_used: 
+    "İstifadə olunan tokenlər"
+  view: 
+    "Baxış"
+  please_wait: 
+    "Zəhmət olmasa gözləyin"
+  search: 
+    "Axtarış"
+  create_conversation: 
+    "Söhbətin mövzusunu yaradın"
+  create_monologue: 
+    "Monoloq yaradın"
+  select_language_1: 
+    "Dil seçin"
+  select_language_2: 
+    "İkinci dili seçin"
+  select_conversation_level: 
+    "Söhbət səviyyəsini seçin"
+  select_monologue_level: 
+    "Monoloq Səviyyəsini Seçin"
+  find_more_conversations_created: 
+    "Daha çox söhbətlər yaradın"
+  find_more_monologues_created: 
+    "Daha çox monoloq tapın"
+  we_are_creating_your_bilingual_conversation: 
+    "Biz sizin iki dilli söhbətinizi yaradırıq"
+  we_are_creating_your_bilingual_monologue: 
+    "Biz sizin ikidilli monoloqunuzu yaradırıq."
+  search_language: 
+    "Axtarış dili"
+  no_results_found: 
+    "Heç bir nəticə tapılmadı."
+  enable_audio_language_1:
+    "İlk dil üçün səsi aktiv edin"
+  enable_audio_language_2:
+    "İkinci dil üçün səsi aktivləşdirin"

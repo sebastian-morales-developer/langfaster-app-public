@@ -1,0 +1,197 @@
+pl: # Polish
+  language_options:
+    "Angielski":
+      1
+    "Hiszpański":
+      2
+    "Francuski":
+      3
+    "portugalski":
+      4
+    "Niemiecki":
+      5
+    "Niderlandzki":
+      6
+    "Włoski":
+      7
+    "Baskijski":
+      8
+    "Kataloński":
+      9
+    "Galicyjski":
+      10
+    "Polski":
+      11
+    "Szwedzki":
+      12
+    "Duński":
+      13
+    "Norweski":
+      14
+    "Fiński":
+      15
+    "Węgierski":
+      16
+    "Czeski":
+      17
+    "słowacki":
+      18
+    "Rumuński":
+      19
+    "Bułgarski":
+      20
+    "Chorwacki":
+      21
+    "Serbski":
+      22
+    "Bośniacki":
+      23
+    "Estoński":
+      24
+    "Łotewski":
+      25
+    "Litewski":
+      26
+    "Grecki":
+      27
+    "Hebrajski":
+      28
+    "Arabski":
+      29
+    "Turecki":
+      30
+    "Tajski":
+      31
+    "Rosyjski":
+      32
+    "Ukraiński":
+      33
+    "Perski":
+      34
+    "Suahili":
+      35
+    "Hindi":
+      36
+    "Tamilski":
+      37
+    "Indonezyjski":
+      38
+    "Wietnamski":
+      39
+    "Chiński":
+      40
+    "Koreański":
+      41
+    "Japoński":
+      42
+    "Malezyjski":
+      43
+    "Azerbejdżański":
+      44
+    "Ormiański":
+      45
+    "Kazachski":
+      46
+    "Macedoński":
+      47
+    "Maoryski":
+      48
+    "Nepalski":
+      49
+    "Islenderski":
+      50
+    "Afrykański":
+      51
+    "Tagalski":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Słoweński":
+      55
+    "Walijski":
+      56
+    "Białoruski":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Początkujący (A1)":
+      1
+    "Poziom pre-intermediate (A2)":
+      2
+    "Średniozaawansowany (B1)":
+      3
+    "Poziom średniozaawansowany (B2)":
+      4
+    "Zaawansowany (C1)":
+      5
+    "Biegły (C2)":
+      6
+  normal_texts: 
+    "Normalne teksty"
+  type_topic_conversation: 
+    "Napisz temat rozmowy"
+  type_topic_monologue: 
+    "Napisz temat monologu"
+  topic_entered: 
+    "Wprowadź temat rozmowy"
+  new_conversation: 
+    "Nowa rozmowa"
+  new_monologue: 
+    "Nowy monolog"
+  conversation_level_selected: 
+    "Poziom rozmowy"
+  languages_selected: 
+    "Wybór języków"
+  back_to_create_a_new_conversation: 
+    "Wracaj do stworzenia nowej rozmowy"
+  pronounced as: 
+    "wymawiane jako"
+  according_to_phonetic_transcription: 
+    "zgodnie z Międzynarodowym Alfabetem Fonetycznym"
+  no_conversations_available: 
+    "Brak dostępnych rozmów"
+  no_monologues_available: 
+    "Brak monologów dostępnych"
+  audience: 
+    "Publiczność"
+  language: 
+    "Język"
+  tokens_used: 
+    "Użyte tokeny"
+  view: 
+    "Zobacz"
+  please_wait: 
+    "Proszę czekać"
+  search: 
+    "Szukaj"
+  create_conversation: 
+    "Stwórz rozmowę"
+  create_monologue: 
+    "Stwórz monolog"
+  select_language_1: 
+    "Wybierz pierwszy język"
+  select_language_2: 
+    "Wybierz drugi język"
+  select_conversation_level: 
+    "Wybierz poziom rozmowy"
+  select_monologue_level: 
+    "Wybierz poziom monologu"
+  find_more_conversations_created: 
+    "Znajdź więcej rozmów utworzonych"
+  find_more_monologues_created: 
+    "Znajdź więcej monologów stworzonych"
+  we_are_creating_your_bilingual_conversation: 
+    "Tworzymy Twoją dwujęzyczną rozmowę"
+  we_are_creating_your_bilingual_monologue: 
+    "Tworzymy twoją dwujęzyczną monologię"
+  search_language: 
+    "Wyszukaj język"
+  no_results_found: 
+    "Nie znaleziono wyników"
+  enable_audio_language_1:
+    "Włącz dźwięk dla pierwszego języka"
+  enable_audio_language_2:
+    "Włącz audio dla drugiego języka"

@@ -1,0 +1,197 @@
+ro: # Romanian
+  language_options:
+    "Engleză":
+      1
+    "Spaniol":
+      2
+    "Franceză":
+      3
+    "Portughez":
+      4
+    "Germană":
+      5
+    "Olandeză":
+      6
+    "Italiană":
+      7
+    "bască":
+      8
+    "Catalană":
+      9
+    "Galițian":
+      10
+    "Poloneză":
+      11
+    "Suedeză":
+      12
+    "Daneză":
+      13
+    "Norvegiană":
+      14
+    "Fineză":
+      15
+    "Ungară":
+      16
+    "Ceha":
+      17
+    "Slovacă":
+      18
+    "Română":
+      19
+    "Bulgară":
+      20
+    "Croată":
+      21
+    "sârbo":
+      22
+    "Bosniacă":
+      23
+    "Estoniană":
+      24
+    "Letonă":
+      25
+    "Lituaniană":
+      26
+    "Greacă":
+      27
+    "Ebraică":
+      28
+    "Arabă":
+      29
+    "Turcă":
+      30
+    "Thailandez":
+      31
+    "Rusă":
+      32
+    "Ucrainiană":
+      33
+    "persană":
+      34
+    "Swahili":
+      35
+    "Hindi":
+      36
+    "Tamil":
+      37
+    "Indoneziană":
+      38
+    "Vietnameză":
+      39
+    "Chineză":
+      40
+    "Coreeană":
+      41
+    "Japonese":
+      42
+    "Malaeză":
+      43
+    "Azerbaidjană":
+      44
+    "Armeană":
+      45
+    "kazaхă тілі":
+      46
+    "Macedonean":
+      47
+    "Maori":
+      48
+    "Nepaleză":
+      49
+    "Icelandic":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slovenă":
+      55
+    "Welsh":
+      56
+    "Belarusă":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Începător (A1)":
+      1
+    "Pre-intermediar (A2)":
+      2
+    "Intermediar (B1)":
+      3
+    "Intermediar superior (B2)":
+      4
+    "Avansat (C1)":
+      5
+    "Competent (C2)":
+      6
+  normal_texts: 
+    "Texte normale"
+  type_topic_conversation: 
+    "Scrieți subiectul discuției"
+  type_topic_monologue: 
+    "Tipul monologului"
+  topic_entered: 
+    "Tema introdusă"
+  new_conversation: 
+    "Nouă conversație"
+  new_monologue: 
+    "Monolog nou"
+  conversation_level_selected: 
+    "Nivel de conversație"
+  languages_selected: 
+    "Limbi selectate"
+  back_to_create_a_new_conversation: 
+    "Înapoi pentru a crea o nouă conversație"
+  pronounced as: 
+    "pronunțat ca"
+  according_to_phonetic_transcription: 
+    "conform Alfabetului Fonetic Internațional"
+  no_conversations_available: 
+    "Nu sunt disponibile conversații"
+  no_monologues_available: 
+    "Nu sunt disponibile monologuri"
+  audience: 
+    "Publicul"
+  language: 
+    "Limba"
+  tokens_used: 
+    "Tokeni utilizați"
+  view: 
+    "Vizualizare"
+  please_wait: 
+    "Vă rugăm să așteptați"
+  search: 
+    "Cautare"
+  create_conversation: 
+    "Creează o conversație"
+  create_monologue: 
+    "Creează un monolog"
+  select_language_1: 
+    "Selectați prima limbă"
+  select_language_2: 
+    "Selectați a doua limbă"
+  select_conversation_level: 
+    "Selectați nivelul conversației"
+  select_monologue_level: 
+    "Selectați nivelul monologului"
+  find_more_conversations_created: 
+    "Găsiți mai multe conversații create"
+  find_more_monologues_created: 
+    "Găsește mai multe monologuri create"
+  we_are_creating_your_bilingual_conversation: 
+    "Creăm conversația dumneavoastră bilingvă"
+  we_are_creating_your_bilingual_monologue: 
+    "Creăm monologul tău bilingv."
+  search_language: 
+    "Caută limbajul"
+  no_results_found: 
+    "Nu s-au găsit rezultate"
+  enable_audio_language_1:
+    "Activați audio pentru prima limbă"
+  enable_audio_language_2:
+    "Activează audio pentru a doua limbă"

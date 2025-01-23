@@ -1,0 +1,148 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark " aria-label="Offcanvas navbar large">
+    <div class="container-fluid">
+      <a class="navbar-brand fst-italic" href="/">
+      <%= image_tag "#{logo_nav_bar()}", alt: "LangFaster Logo", class: "", style: "max-height: 30px;" %>
+      <%= title_navbar() %>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar2" aria-controls="offcanvasNavbar2" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasNavbar2" aria-labelledby="offcanvasNavbar2Label">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="offcanvasNavbar2Label"><%= title_navbar() %></h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+
+
+        <!-- Starts nav bar buttons -->
+        <div class="offcanvas-body">
+          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+          
+
+
+            <!-- Dropdown menu for language selection -->
+            <li class="nav-item dropdown ">
+              <a class="nav-link dropdown-toggle " href="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-translate" viewBox="0 0 16 16">
+                  <path d="M4.545 6.714 4.11 8H3l1.862-5h1.284L8 8H6.833l-.435-1.286zm1.634-.736L5.5 3.956h-.049l-.679 2.022z"/>
+                  <path d="M0 2a2 2 0 0 1 2-2h7a2 2 0 0 1 2 2v3h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-3H2a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zm7.138 9.995q.289.451.63.846c-.748.575-1.673 1.001-2.768 1.292.178.217.451.635.555.867 1.125-.359 2.08-.844 2.886-1.494.777.665 1.739 1.165 2.93 1.472.133-.254.414-.673.629-.89-1.125-.253-2.057-.694-2.82-1.284.681-.747 1.222-1.651 1.621-2.757H14V8h-3v1.047h.765c-.318.844-.74 1.546-1.272 2.13a6 6 0 0 1-.415-.492 2 2 0 0 1-.94.31"/>
+                </svg>
+                <% current_language = languages_name_code.find { |name, code| code == I18n.locale.to_s } %>
+                <%= current_language[0] %>
+              </a>
+              <ul class="dropdown-menu ebriwer-dropdown-languages-1">
+                <li>                
+                  <!-- Search Input -->
+                  <input type="text" class="form-control mb-2 " id="language-search" placeholder="<%= t('search_language') %>" aria-label="Search language">
+                </li>
+                <li><hr class="dropdown-divider"></li>
+                <% languages_name_code.each do |name, code| %>
+                  <li>
+                    <%= link_to name, url_for(locale: code, locale: session[:locale] = code), class: "dropdown-item language-item ebriwer-dropdown-languages-1" %>
+                  </li>
+                <% end %>
+                
+                <li id="no-results" class="dropdown-item" style="display: none;">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
+                  </svg>
+                  <%= t('no_results_found') %>
+                </li>
+
+              </ul>
+            </li>
+
+            <!-- Button for create monologue -->
+            <li class="nav-item">
+              <%= link_to t('create_monologue'), new_monologue_path, class: "nav-link #{'active' if current_page?(new_monologue_path)}" %>
+            </li>
+           
+            <!-- Button for create conversation -->
+            <li class="nav-item">
+              <%= link_to t('create_conversation'), new_conversation_path, class: "nav-link #{'active' if current_page?(new_conversation_path)}" %>
+            </li>
+
+            
+
+            
+
+
+
+            
+          </ul>
+          
+            
+            
+
+        </div>
+        <!-- Ends nav bar buttons --> 
+
+
+
+      </div>
+    </div>
+</nav>
+
+<!-- Add this within the same file or ensure it's loaded after the dropdown -->
+<script>
+
+  document.addEventListener("DOMContentLoaded", function() {
+  const searchInput = document.getElementById('language-search');
+  const languageItems = document.querySelectorAll('.dropdown-menu .language-item');
+  const noResults = document.getElementById('no-results');
+
+  if (searchInput) {
+    searchInput.addEventListener('input', function() {
+      const filter = searchInput.value.toLowerCase();
+      let anyVisible = false;
+
+      languageItems.forEach(function(item) {
+        const text = item.textContent.toLowerCase();
+        if (text.includes(filter)) {
+          item.style.display = 'block';
+          anyVisible = true;
+
+          // Highlight matching text
+          const originalText = item.getAttribute('data-original-text') || item.textContent;
+          item.setAttribute('data-original-text', originalText);
+          const regex = new RegExp(`(${filter})`, 'gi');
+          const highlightedText = originalText.replace(regex, '<strong>$1</strong>');
+          item.innerHTML = highlightedText;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+
+      if (filter !== '') {
+        if (anyVisible) {
+          noResults.style.display = 'none';
+        } else {
+          noResults.style.display = 'block';
+        }
+      } else {
+        noResults.style.display = 'none';
+        // Reset all items to original text
+        languageItems.forEach(function(item) {
+          const originalText = item.getAttribute('data-original-text');
+          if (originalText) {
+            item.innerHTML = originalText;
+          }
+        });
+      }
+    });
+
+    // Reset highlighting when the search is cleared
+    searchInput.addEventListener('blur', function() {
+      languageItems.forEach(function(item) {
+        const originalText = item.getAttribute('data-original-text');
+        if (originalText) {
+          item.innerHTML = originalText;
+        }
+      });
+    });
+  }
+});
+
+</script>
+

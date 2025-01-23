@@ -1,0 +1,197 @@
+ko: # Korean
+  language_options:
+    "영어":
+      1
+    "스페인어":
+      2
+    "프랑스어":
+      3
+    "포르투갈어":
+      4
+    "독일어":
+      5
+    "네덜란드어":
+      6
+    "이탈리아어":
+      7
+    "바스크어":
+      8
+    "카탈란어":
+      9
+    "갈리시아어":
+      10
+    "폴란드어":
+      11
+    "스웨덴어":
+      12
+    "덴마크어":
+      13
+    "노르웨이어":
+      14
+    "핀란드어":
+      15
+    "헝가리어":
+      16
+    "체코어":
+      17
+    "슬로바키아어":
+      18
+    "루마니아어":
+      19
+    "불가리아어":
+      20
+    "크로아티아어":
+      21
+    "세르비아어":
+      22
+    "보스니아어":
+      23
+    "에스토니아어":
+      24
+    "라트비아어":
+      25
+    "리투아니아어":
+      26
+    "그리스어":
+      27
+    "히브리어":
+      28
+    "아랍어":
+      29
+    "터키어":
+      30
+    "태국어":
+      31
+    "러시아어":
+      32
+    "우크라이나어":
+      33
+    "페르시아어":
+      34
+    "스와힐리어":
+      35
+    "힌디어":
+      36
+    "타밀어":
+      37
+    "인도네시아어":
+      38
+    "베트남어":
+      39
+    "중국어":
+      40
+    "한국어":
+      41
+    "일본어":
+      42
+    "말레이어":
+      43
+    "아제르바이잔어":
+      44
+    "아르메니아어":
+      45
+    "카자흐어":
+      46
+    "마케도니아어":
+      47
+    "마오리어":
+      48
+    "네팔어":
+      49
+    "아이슬란드어":
+      50
+    "아프리칸스어":
+      51
+    "타갈로그어":
+      52
+    "칸나다":
+      53
+    "마라티어":
+      54
+    "슬로베니아어":
+      55
+    "웨일스어":
+      56
+    "벨라루스어":
+      57
+    "우르두어":
+      58
+  language_learning_levels:
+    "초급 (A1)":
+      1
+    "초급 중급 (A2)":
+      2
+    "중급 (B1)":
+      3
+    "상급 중급 (B2)":
+      4
+    "고급 (C1)":
+      5
+    "능숙한 (C2)":
+      6
+  normal_texts: 
+    "일반 텍스트"
+  type_topic_conversation: 
+    "대화 주제를 입력하세요"
+  type_topic_monologue: 
+    "모놀로그의 주제를 입력하세요."
+  topic_entered: 
+    "주제를 입력하세요"
+  new_conversation: 
+    "새로운 대화"
+  new_monologue: 
+    "새로운 독백"
+  conversation_level_selected: 
+    "대화 수준"
+  languages_selected: 
+    "선택한 언어"
+  back_to_create_a_new_conversation: 
+    "새 대화를 시작하세요."
+  pronounced as: 
+    "발음된 대로"
+  according_to_phonetic_transcription: 
+    "국제 음성 기호에 따르면"
+  no_conversations_available: 
+    "대화가 없습니다."
+  no_monologues_available: 
+    "모놀로그가 없습니다."
+  audience: 
+    "청중"
+  language: 
+    "언어"
+  tokens_used: 
+    "사용된 토큰"
+  view: 
+    "보기"
+  please_wait: 
+    "잠시만 기다려 주세요."
+  search: 
+    "검색"
+  create_conversation: 
+    "대화 시작하기"
+  create_monologue: 
+    "독백을 만들어 보세요."
+  select_language_1: 
+    "첫 번째 언어를 선택하세요."
+  select_language_2: 
+    "두 번째 언어를 선택하세요."
+  select_conversation_level: 
+    "대화 수준 선택"
+  select_monologue_level: 
+    "모놀로그 수준 선택"
+  find_more_conversations_created: 
+    "더 많은 대화 찾기"
+  find_more_monologues_created: 
+    "더 많은 독백을 찾아보세요."
+  we_are_creating_your_bilingual_conversation: 
+    "당신의 이중 언어 대화를 만들고 있습니다."
+  we_are_creating_your_bilingual_monologue: 
+    "당신의 이중 언어 독백을 만들고 있습니다."
+  search_language: 
+    "검색 언어"
+  no_results_found: 
+    "결과를 찾을 수 없습니다."
+  enable_audio_language_1:
+    "첫 번째 언어의 오디오를 활성화하십시오."
+  enable_audio_language_2:
+    "두 번째 언어의 오디오를 활성화하세요."

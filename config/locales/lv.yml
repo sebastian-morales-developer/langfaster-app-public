@@ -1,0 +1,197 @@
+lv: # Latvian
+  language_options:
+    "Angļu":
+      1
+    "Spāņu":
+      2
+    "Franču":
+      3
+    "Portugāļu":
+      4
+    "Vācu":
+      5
+    "nīderlandiešu":
+      6
+    "Itāļu":
+      7
+    "Basku":
+      8
+    "Katalāņu":
+      9
+    "galiciešu":
+      10
+    "Polijas":
+      11
+    "Zviedru":
+      12
+    "Dāņu":
+      13
+    "Norvēģu":
+      14
+    "Somu":
+      15
+    "Ungāru":
+      16
+    "Čehs":
+      17
+    "slovāku":
+      18
+    "Rumāņu":
+      19
+    "Bulgāru":
+      20
+    "horvātu":
+      21
+    "serbu":
+      22
+    "Bosņu":
+      23
+    "Igauniski":
+      24
+    "latviešu":
+      25
+    "Lietuviešu":
+      26
+    "grieķu":
+      27
+    "Hebreju":
+      28
+    "Arābu":
+      29
+    "Turku":
+      30
+    "Taju":
+      31
+    "Krievu":
+      32
+    "ukraiņu":
+      33
+    "persiešu":
+      34
+    "Svahili":
+      35
+    "hindi":
+      36
+    "tamilu":
+      37
+    "Indoniešu":
+      38
+    "Vjetnamiešu":
+      39
+    "Ķīniešu":
+      40
+    "Korejiešu":
+      41
+    "Japāņu":
+      42
+    "malajiešu":
+      43
+    "Azerbaidžāņu":
+      44
+    "Armēniski":
+      45
+    "Kazahu":
+      46
+    "Macedoniešu":
+      47
+    "Maoru":
+      48
+    "Nepāļu":
+      49
+    "Islande":
+      50
+    "Afrikāņu":
+      51
+    "Tagalo":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slovēņu":
+      55
+    "Velsiešu":
+      56
+    "Baltkrievu":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Sākuma (A1)":
+      1
+    "Priekšmeti (A2)":
+      2
+    "Vidējais (B1)":
+      3
+    "Augstāka vidējā līmeņa (B2)":
+      4
+    "Augstākais (C1)":
+      5
+    "Proficients (C2)":
+      6
+  normal_texts: 
+    "Parastie teksti"
+  type_topic_conversation: 
+    "Ievadiet sarunas tēmu"
+  type_topic_monologue: 
+    "Uzrakstiet monologa tēmu"
+  topic_entered: 
+    "Ievadiet sarunas tēmu"
+  new_conversation: 
+    "Jauna saruna"
+  new_monologue: 
+    "Jaunais monologs"
+  conversation_level_selected: 
+    "Sarunas līmenis"
+  languages_selected: 
+    "Izvēlētās valodas"
+  back_to_create_a_new_conversation: 
+    "Atgriezties, lai izveidotu jaunu sarunu"
+  pronounced as: 
+    "izrunāts kā"
+  according_to_phonetic_transcription: 
+    "saskaņā ar Starptautisko fonētisko alfabētu"
+  no_conversations_available: 
+    "Nav pieejamu sarunu"
+  no_monologues_available: 
+    "Nav monologu pieejamu"
+  audience: 
+    "Auditorija"
+  language: 
+    "Valoda"
+  tokens_used: 
+    "Izmantojot tokenus"
+  view: 
+    "Skats"
+  please_wait: 
+    "Lūdzu, uzgaidiet"
+  search: 
+    "Meklēt"
+  create_conversation: 
+    "Izveidojiet sarunu"
+  create_monologue: 
+    "Izveidot monologu"
+  select_language_1: 
+    "Izvēlieties pirmo valodu"
+  select_language_2: 
+    "Izvēlieties otro valodu"
+  select_conversation_level: 
+    "Izvēlieties sarunas līmeni"
+  select_monologue_level: 
+    "Izvēlieties monologa līmeni"
+  find_more_conversations_created: 
+    "Atrast vairāk sarunu, kas izveidotas"
+  find_more_monologues_created: 
+    "Atrodiet vairāk monologu izveidotu"
+  we_are_creating_your_bilingual_conversation: 
+    "Mēs veidojam jūsu divvalodu sarunu"
+  we_are_creating_your_bilingual_monologue: 
+    "Mēs veidojam jūsu divvalodu monologu"
+  search_language: 
+    "Meklēšanas valoda"
+  no_results_found: 
+    "Nav atrasti rezultāti"
+  enable_audio_language_1:
+    "Iespējot audio pirmajai valodai"
+  enable_audio_language_2:
+    "Ieslēdziet audio otrajai valodai"

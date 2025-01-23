@@ -1,0 +1,192 @@
+<div class="container-fluid ebriwer-conversation-menu-1 text-center " >
+    <!-- Logo -->
+    <div class="row g-3 justify-content-center  mb-4" id="logo_loading_area">
+        <!--
+        <%= image_tag "/images/prompts/#{list_images_prompted()}", alt: "Conversations App Logo", class: "img-fluid ebriwer-img-1", style: "max-width: 500px;" %>
+        -->
+        <h2><%= t('create_conversation') %></h2>
+        <%= image_tag "#{index_conversations_image()}", alt: "Conversations App Logo", class: "img-fluid ebriwer-img-1", style: "max-width: 500px;" %>
+        
+    </div>
+
+    <%= form_with(model: @conversation, url: conversations_path, local: true, html: { id: "conversation-form" }) do |form| %>
+
+        <!-- Loading for conversation creation -->    
+        <div class="row g-3 justify-content-center align-items-center">
+            <div class="col-md-12 border-white  position-relative" id="loading-conversation-new-div" style="display: none;">                
+                <div class="alert border-white w-100 fs-3 text-center" >
+                    
+                    <span class="spinner-grow spinner-grow-sm" aria-hidden="true"></span>
+                    <span class="spinner-border spinner-border-sm" aria-hidden="true"></span>
+                    <span class="spinner-grow spinner-grow-sm" aria-hidden="true"></span>
+                    <br>
+
+                    <span class="fw-bold"><%= t("we_are_creating_your_bilingual_conversation") %></span> <br>  
+
+                    <span id="language1-loading-new-value"></span> - <span id="language2-loading-new-value"></span><br>                    
+                    <span id="level-loading-new-value"></span> <br>
+
+                    <span class="fw-bold"><%= t("topic_entered") %>: </span> 
+                    "<span id="topic-loading-new-value"></span>" <br>
+                 
+                    <span class="fw-bold"><%= t("please_wait") %></span>             
+
+                    <br>
+                    <span class="spinner-grow spinner-grow-sm" aria-hidden="true"></span>
+                    <span class="spinner-border spinner-border-sm" aria-hidden="true"></span>
+                    <span class="spinner-grow spinner-grow-sm" aria-hidden="true"></span>
+                
+                </div>
+                
+            </div>
+        </div>   
+
+        <!-- ************************************* -->
+
+        <!-- Languages selection 1 and 2 -->
+        <div class="row g-3 justify-content-center">
+            <!-- Languages 1 selection -->
+            <div class="col-md-4" id="dropdown-language1-div" >
+                <%= form.select :language_1, options_for_select(t('language_options')), { prompt: t('select_language_1') }, class: "form-select ebriwer-input-1 fs-4", id: "dropdown-language1-value" %>
+            </div>  
+            
+            <div class="col-md-2 text-center" id="checkbox-enable-audio-language-1-div">
+                <%= form.check_box :enable_audio_language_1, class: "form-check-input btn-check ", id: "enable_audio_language_1" %>
+                <%= form.label :enable_audio_language_1, t('enable_audio_language_1'), class: "form-check-label btn btn-outline-secondary", for: "enable_audio_language_1" %>
+            </div>
+
+            <!-- Languages 2 selection -->            
+
+            <div class="col-md-4" id="dropdown-language2-div" >
+                <%= form.select :language_2, options_for_select(t('language_options')), { prompt: t('select_language_2') }, class: "form-select ebriwer-input-1 fs-4", id: "dropdown-language2-value" %>
+            </div>  
+            <div class="col-md-2 text-center" id="checkbox-enable-audio-language-2-div">
+                <%= form.check_box :enable_audio_language_2, class: "form-check-input btn-check ", id: "enable_audio_language_2" %>
+                <%= form.label :enable_audio_language_2, t('enable_audio_language_2'), class: "form-check-label btn btn-outline-secondary", for: "enable_audio_language_2" %>
+            </div>
+
+        </div>
+
+        <br>
+        
+        <!-- Conversation level, Typing topic and submit button -->
+        <div class="row g-3 justify-content-center">
+            
+            <!-- Typing topic -->
+            <div class="col-md-8" id="textfield-topic-div" >
+                <%= form.text_area  :custom_topic, class: "form-control ebriwer-input-1 fs-5", placeholder: t('type_topic_conversation'), id: "textfield-topic-value", rows: 4 %>
+            </div>  
+
+            <!-- Conversation level selection -->
+            <div class="col-md-4" id="dropdown-level-div" >
+                <div class="row g-3 justify-content-center">
+                    <%= form.select :level_number, options_for_select(t('language_learning_levels')), { prompt: t('select_conversation_level') }, class: "form-select ebriwer-input-1 fs-5", id: "dropdown-level-value" %>
+                </div>
+                <br>
+                <div class="row g-3 justify-content-center">
+                    <!-- Submit Button with 50% Width -->
+                    <div id="submit-button-div">
+                    
+                    <%= form.submit t('create_conversation'), class: "btn btn-lg btn-dark fw-bold border-white w-100 " , id: "submit-button" %>
+                    </div>
+                </div>
+            </div>  
+            
+
+        </div>
+        
+        <br>
+
+        
+        
+        
+
+
+    <% end %>
+
+
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+
+    var form = document.getElementById("conversation-form");    
+    var submitButtonDiv = document.getElementById("submit-button");
+
+    var dropdownLanguage1Div = document.getElementById("dropdown-language1-div");
+    var checkboxEnableAudioLanguage1Div = document.getElementById("checkbox-enable-audio-language-1-div");
+    var dropdownLanguage2Div = document.getElementById("dropdown-language2-div");
+    var checkboxEnableAudioLanguage2Div = document.getElementById("checkbox-enable-audio-language-2-div");
+    var dropdownLevelDiv = document.getElementById("dropdown-level-div");
+    var textfieldTopicDiv = document.getElementById("textfield-topic-div");
+    
+    var dropdownLanguage1Value = document.getElementById("dropdown-language1-value");
+    var dropdownLanguage2Value = document.getElementById("dropdown-language2-value");
+    var dropdownLevelValue = document.getElementById("dropdown-level-value");
+    var textfieldTopicValue = document.getElementById("textfield-topic-value");            
+    var loadingConversationNewDiv = document.getElementById("loading-conversation-new-div");
+
+    var language1LoadingNewValue = document.getElementById("language1-loading-new-value");
+    var language2LoadingNewValue = document.getElementById("language2-loading-new-value");
+    var levelLoadingNewValue = document.getElementById("level-loading-new-value");
+    var topicLoadingNewValue = document.getElementById("topic-loading-new-value");
+      
+
+
+    form.addEventListener("submit", function(event) {
+
+
+        // Initialize validation flag and error messages array
+        var isValid = true;
+        var errorMessages = [];     
+
+        // Get selected values from dropdowns
+        var language1Value = dropdownLanguage1Value.value;
+        var language2Value = dropdownLanguage2Value.value;
+        var levelValue = dropdownLevelValue.value;
+        // Trim the topic input value
+        var topicValue = textfieldTopicValue.value.trim();
+
+        // Validation: Check if topic is empty
+        if (
+        topicValue === "" ||
+        language1Value === "" ||
+        language2Value === "" ||
+        levelValue === "" 
+        ) {
+        isValid = false;
+        errorMessages.push("Please enter all values.");
+        }     
+
+        if (!isValid) {
+        // Prevent form submission
+        event.preventDefault();        
+        // Display error messages (you can customize this to show inline errors)
+        alert(errorMessages.join("Error 1: \n"));        
+        return;
+        }
+
+        // If validation passes, proceed with form submission
+
+
+        dropdownLanguage1Div.style.display = "none";
+        dropdownLanguage2Div.style.display = "none";
+        dropdownLevelDiv.style.display = "none";
+        textfieldTopicDiv.style.display = "none";      
+        submitButtonDiv.style.display = "none";  
+        checkboxEnableAudioLanguage1Div.style.display = "none";
+        checkboxEnableAudioLanguage2Div.style.display = "none";  
+        loadingConversationNewDiv.style.display = "block";
+
+        language1LoadingNewValue.textContent = dropdownLanguage1Value.options[dropdownLanguage1Value.selectedIndex].text
+        language2LoadingNewValue.textContent = dropdownLanguage2Value.options[dropdownLanguage2Value.selectedIndex].text
+        levelLoadingNewValue.textContent = dropdownLevelValue.options[dropdownLevelValue.selectedIndex].text
+        topicLoadingNewValue.textContent = textfieldTopicValue.value.trim();
+      
+
+    });
+
+
+    
+
+  });
+</script>

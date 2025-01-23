@@ -1,0 +1,197 @@
+fr: # French
+  language_options:
+    "Anglais":
+      1
+    "Espagnol":
+      2
+    "Français":
+      3
+    "Portugais":
+      4
+    "Allemand":
+      5
+    "Néerlandais":
+      6
+    "Italien":
+      7
+    "Basque":
+      8
+    "Catalan":
+      9
+    "Galego":
+      10
+    "Polonais":
+      11
+    "Suédois":
+      12
+    "Danois":
+      13
+    "Norvégien":
+      14
+    "Finnois":
+      15
+    "Hongrois":
+      16
+    "Tchèque":
+      17
+    "Slovaque":
+      18
+    "Roumain":
+      19
+    "Bulgare":
+      20
+    "Croate":
+      21
+    "serbe":
+      22
+    "Bosniaque":
+      23
+    "Estonien":
+      24
+    "Lettonien":
+      25
+    "Lituanien":
+      26
+    "Grec":
+      27
+    "Hébreu":
+      28
+    "Arabe":
+      29
+    "Turc":
+      30
+    "Thaïlandais":
+      31
+    "Russe":
+      32
+    "Ukrainien":
+      33
+    "Persan":
+      34
+    "Swahili":
+      35
+    "Hindi":
+      36
+    "Tamoul":
+      37
+    "indonésien":
+      38
+    "Vietnamien":
+      39
+    "Chinois":
+      40
+    "Coréen":
+      41
+    "Japonais":
+      42
+    "Malais":
+      43
+    "Azerbaïdjanais":
+      44
+    "Arménien":
+      45
+    "Kazakh":
+      46
+    "Macédonien":
+      47
+    "Maori":
+      48
+    "Népalais":
+      49
+    "Islandais":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slovène":
+      55
+    "Gallois":
+      56
+    "Biélorusse":
+      57
+    "ourdou":
+      58
+  language_learning_levels:
+    "Débutant (A1)":
+      1
+    "Pré-intermédiaire (A2)":
+      2
+    "Intermédiaire (B1)":
+      3
+    "Intermédiaire supérieur (B2)":
+      4
+    "Avancé (C1)":
+      5
+    "Compétent (C2)":
+      6
+  normal_texts: 
+    "Textes normaux"
+  type_topic_conversation: 
+    "Tapez le sujet de la conversation"
+  type_topic_monologue: 
+    "Tapez le sujet du monologue"
+  topic_entered: 
+    "Saisissez le sujet de la conversation"
+  new_conversation: 
+    "Nouvelle conversation"
+  new_monologue: 
+    "Nouveau monologue"
+  conversation_level_selected: 
+    "Niveau de conversation"
+  languages_selected: 
+    "Langues sélectionnées"
+  back_to_create_a_new_conversation: 
+    "Retour à Créer une nouvelle conversation"
+  pronounced as: 
+    "prononcé comme"
+  according_to_phonetic_transcription: 
+    "selon l'Alphabet Phonétique International"
+  no_conversations_available: 
+    "Aucune conversation disponible"
+  no_monologues_available: 
+    "Aucun monologue disponible"
+  audience: 
+    "Public cible"
+  language: 
+    "Langue"
+  tokens_used: 
+    "Tokens utilisés"
+  view: 
+    "Vue"
+  please_wait: 
+    "Veuillez patienter"
+  search: 
+    "Recherche"
+  create_conversation: 
+    "Créer une conversation"
+  create_monologue: 
+    "Créer un monologue"
+  select_language_1: 
+    "Sélectionnez la première langue"
+  select_language_2: 
+    "Sélectionnez la deuxième langue"
+  select_conversation_level: 
+    "Sélectionnez le niveau de conversation"
+  select_monologue_level: 
+    "Sélectionnez le niveau de monologue"
+  find_more_conversations_created: 
+    "Trouvez plus de conversations créées"
+  find_more_monologues_created: 
+    "Trouvez plus de monologues créés"
+  we_are_creating_your_bilingual_conversation: 
+    "Nous créons votre conversation bilingue."
+  we_are_creating_your_bilingual_monologue: 
+    "Nous créons votre monologue bilingue"
+  search_language: 
+    "Langue de recherche"
+  no_results_found: 
+    "Aucun résultat trouvé"
+  enable_audio_language_1:
+    "Activez l'audio pour la première langue"
+  enable_audio_language_2:
+    "Activez l'audio pour la deuxième langue"

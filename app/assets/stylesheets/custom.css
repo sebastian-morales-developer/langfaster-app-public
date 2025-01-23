@@ -1,0 +1,219 @@
+/*THIS IS A CUSTOM FILE CREATED BY MORANI */
+
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS (and SCSS, if configured) file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+ /* Define CSS variables */
+:root {
+  --ebriwer-main-color: #736B5F; /* Your common color value */
+}
+
+.ebriwer-dropdown-languages-1 {
+  background-color: var(--bs-gray-900) !important;
+  color: white !important;  
+}
+
+.ebriwer-body {
+  background-color: #0F1111;
+  color: white; /* Optional: Change text color to white for better contrast */
+}
+
+.ebriwer-bg-body-1{
+  background-color: #0F1111;
+}
+
+.ebriwer-bg-album-1{
+  background-color: #181A1B !important;
+}
+
+.ebriwer-link-color-1 {
+  color: #fff !important;
+}
+
+/***************/
+
+.ebriwer-input-1{
+  border: 5px solid var(--ebriwer-main-color) !important; /* Optional: Set border color to match text color */
+  border-radius: 50px !important;        /* Optional: Rounded corners */
+  text-align: center !important;
+  color:var(--ebriwer-main-color) !important;
+  background-color:black !important;
+}
+
+/* Ensure styles are maintained on focus */
+.ebriwer-input-1:focus {
+  background-color: black ;  /* Keep background color the same */
+  color: var(--ebriwer-main-color) ;      /* Keep text color the same */
+  outline: none ;            /* Remove default focus outline */
+  border-color: var(--ebriwer-main-color) ;    /* Maintain border color (optional) */
+}
+
+.ebriwer-input-1::placeholder {
+  background-color: var(--ebriwer-main-color);
+  border-radius: 50px;        /* Optional: Rounded corners */    
+}
+
+/***************/
+
+.ebriwer-input-dropdown-1{
+  border: 5px solid var(--ebriwer-main-color); /* Optional: Set border color to match text color */
+  border-radius: 1px;        /* Optional: Rounded corners */
+  text-align: center;
+  color:var(--ebriwer-main-color);
+  background-color:black;
+}
+
+/* Ensure styles are maintained on focus */
+.ebriwer-input-dropdown-1:focus {
+  background-color: black;  /* Keep background color the same */
+  color: var(--ebriwer-main-color);      /* Keep text color the same */
+  outline: none;            /* Remove default focus outline */
+  border-color: var(--ebriwer-main-color);    /* Maintain border color (optional) */
+}
+
+.ebriwer-input-dropdown-1::placeholder {
+  background-color: var(--ebriwer-main-color);
+  border-radius: 1px;        /* Optional: Rounded corners */    
+}
+
+/***************/
+
+.ebriwer-input-inside-dropdown-1{  
+  text-align: center;
+  color:var(--ebriwer-main-color);
+}
+
+
+/***************/
+
+.ebriwer-checkbox-enable-audio-1{
+  text-align: center;
+}
+
+/***************/
+
+.ebriwer-img-1{
+  border: 5px double var(--ebriwer-main-color); /* Optional: Set border color to match text color */    
+  border-radius: 10px;    
+}
+
+
+/* https://blog.shahednasser.com/how-to-style-an-audio-element/ */  
+.ebriwer-audio-container-1 {
+  background-color: var(--ebriwer-main-color); /* Set your desired background color */
+  padding-left: 15px;             /* Optional: Add padding around the audio element */
+  padding-right: 15px;             /* Optional: Add padding around the audio element */
+  padding-top: 5px;             /* Optional: Add padding around the audio element */
+  padding-bottom: 5px;             /* Optional: Add padding around the audio element */  
+  border-radius: 8px;       /* Optional: Rounded corners */
+}
+
+.ebriwer-audio-container-2 {
+  background-color: var(--ebriwer-main-color); /* Set your desired background color */
+  padding-left: 1px;             /* Optional: Add padding around the audio element */
+  padding-right: 1px;             /* Optional: Add padding around the audio element */
+  padding-top: 1px;             /* Optional: Add padding around the audio element */
+  padding-bottom: 1px;             /* Optional: Add padding around the audio element */  
+  border-radius: 1px;       /* Optional: Rounded corners */
+}
+
+.ebriwer-audio-1::-webkit-media-controls-panel {
+  background-color: var(--ebriwer-main-color);
+}
+
+.ebriwer-audio-1::-webkit-media-controls-time-remaining-display,
+.ebriwer-audio-1::-webkit-media-controls-current-time-display {
+  color: white;
+}
+
+.ebriwer-audio-1::-webkit-media-controls-panel {
+  background-color: var(--ebriwer-main-color);
+}
+
+.ebriwer-audio-1::-webkit-media-controls-play-button, 
+.ebriwer-audio-1::-webkit-media-controls-mute-button {
+  background-color:gray;
+  border-radius: 50%;
+}
+
+.ebriwer-audio-1::-webkit-media-controls-play-button:hover {
+  background-color: rgba(177,212,224, .7);
+}
+
+
+.ebriwer-audio-1::-webkit-media-controls-timeline {
+  background-color:gray;
+  border-radius: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.ebriwer-narrator-speaker-frame{
+  background-color:var(--ebriwer-main-color);
+}
+
+.ebriwer-fable-frame-1{
+  border: 5px double var(--ebriwer-main-color); /* Optional: Set border color to match text color */    
+  border-radius: 10px;    
+}
+
+.ebriwer-fable-frame-2{
+  border: 2px dotted var(--ebriwer-main-color); /* Optional: Set border color to match text color */    
+  border-radius: 20px;  
+  padding-top: 20px;  
+  padding-bottom: 20px;  
+  
+}
+
+
+
+.ebriwer-padding-fixed-nav-1{
+  padding-top: 56px;
+}
+
+.ebriwer-padding-fixed-audio-player-1{
+  padding-top: 60px;
+}
+
+.ebriwer-padding-horizontal-audio-player-signals-1{
+  padding-left: 1.25rem;
+  padding-right: 1.1rem;
+  
+}
+
+.ebriwer-audio-fixed-top-1{
+  position: fixed;
+  top: 0px; /* Height of the navbar (60px) */
+}
+
+
+.ebriwer-conversation-menu-1{
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top:1rem;  
+}
+
+/* Mobile styles using media queries */
+@media (max-width: 300px) { /* Adjust the max-width as needed for your breakpoints */
+  .ebriwer-conversation-menu-1 {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1rem; /* Keep this consistent if needed */
+  }
+}
+
+
+

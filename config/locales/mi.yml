@@ -1,0 +1,197 @@
+mi: # Maori
+  language_options:
+    "Irirangi":
+      1
+    "Paniora":
+      2
+    "Fréno":
+      3
+    "Pōtuere":
+      4
+    "Tiamana":
+      5
+    "Te Reo Pākehā":
+      6
+    "Itaianu":
+      7
+    "Basque":
+      8
+    "Katalan":
+      9
+    "Galego":
+      10
+    "Pōrana":
+      11
+    "Rūia":
+      12
+    "Tānehi":
+      13
+    "Nōweka":
+      14
+    "Finlandia":
+      15
+    "Hūngarau":
+      16
+    "Kōhatu":
+      17
+    "Hunga Rōmaika":
+      18
+    "Rumāniana":
+      19
+    "Pūranakau":
+      20
+    "Kroatia":
+      21
+    "Serbia":
+      22
+    "Bosnian":
+      23
+    "Estoniano":
+      24
+    "Latviešu":
+      25
+    "Rūrohski":
+      26
+    "Kirikiti":
+      27
+    "Hebreo":
+      28
+    "Arapiha":
+      29
+    "Tākiri":
+      30
+    "Tāi ":
+      31
+    "Rūhia":
+      32
+    "Ukrainian":
+      33
+    "Pākehā":
+      34
+    "Suwahili":
+      35
+    "Hindī":
+      36
+    "Tāmiro":
+      37
+    "Ihonui":
+      38
+    "Vietnamese":
+      39
+    "Hainamana":
+      40
+    "Kōrea":
+      41
+    "Hapani":
+      42
+    "Māori":
+      43
+    "Azerbaijani":
+      44
+    "Armenian":
+      45
+    "Kazakihana":
+      46
+    "Makedonian":
+      47
+    "Māori":
+      48
+    "Nepali":
+      49
+    "Ikariana":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kanada":
+      53
+    "Marathi":
+      54
+    "Rōmaniana":
+      55
+    "Welsh":
+      56
+    "Pelorusian":
+      57
+    "Urdū":
+      58
+  language_learning_levels:
+    "Tīmatanga (A1)":
+      1
+    "Tūāpapa-māori (A2)":
+      2
+    "Waenga (B1)":
+      3
+    "Te Pūtahi Tuarua (B2)":
+      4
+    "Pūmau (C1)":
+      5
+    "Kaitohutohu (C2)":
+      6
+  normal_texts: 
+    "Ngā tuhinga noa"
+  type_topic_conversation: 
+    "Tārua te kaupapa kōrero"
+  type_topic_monologue: 
+    "Tāruatia te kaupapa o te monologo"
+  topic_entered: 
+    "Tārua te kaupapa kōrero"
+  new_conversation: 
+    "Kōrero hou"
+  new_monologue: 
+    "Monolog New"
+  conversation_level_selected: 
+    "Kōrero Taumata"
+  languages_selected: 
+    "Te reo e whiriwhiria ana"
+  back_to_create_a_new_conversation: 
+    "Hoki ki te hanga i tētahi kōrero hou"
+  pronounced as: 
+    "e pānuitia hei"
+  according_to_phonetic_transcription: 
+    "e ai ki te Pānui Reo Ākau"
+  no_conversations_available: 
+    "Kaore he kōrero e wātea ana"
+  no_monologues_available: 
+    "Kaore he monologues e waatea ana"
+  audience: 
+    "Pūtaiao"
+  language: 
+    "Reo"
+  tokens_used: 
+    "Kāore e taea te whakamahi i ngā tohu."
+  view: 
+    "Tirohia"
+  please_wait: 
+    "Tēnā koa tatari"
+  search: 
+    "Tirohia"
+  create_conversation: 
+    "Tuhia te kaupapa kōrero"
+  create_monologue: 
+    "Tuhia he monologue"
+  select_language_1: 
+    "Tīpakohia te reo tuatahi"
+  select_language_2: 
+    "Tīpakohia te reo tuarua"
+  select_conversation_level: 
+    "Whiriwhiria te taumata kōrero"
+  select_monologue_level: 
+    "Tīpako Monologue Level"
+  find_more_conversations_created: 
+    "Tirohia ngā kōrero i hangaia atu"
+  find_more_monologues_created: 
+    "Tena tirohia etahi atu monologue i hangaia"
+  we_are_creating_your_bilingual_conversation: 
+    "Kei te hanga mātou i tō kōrero pānui reo rua"
+  we_are_creating_your_bilingual_monologue: 
+    "Kei te hanga e mātou tō kōrero pānui reo rua."
+  search_language: 
+    "Rapu reo"
+  no_results_found: 
+    "Kaore i kitea nga hua"
+  enable_audio_language_1:
+    "Whakamahia te oro mo te reo tuatahi"
+  enable_audio_language_2:
+    "Whakahohea te oro mo te reo tuarua"

@@ -1,0 +1,197 @@
+et: # Estonian
+  language_options:
+    "Inglise":
+      1
+    "Hispaania":
+      2
+    "Prantsuse":
+      3
+    "Portugali":
+      4
+    "Saksa":
+      5
+    "Hollandi":
+      6
+    "Itaalia":
+      7
+    "Baskisch":
+      8
+    "Katalan":
+      9
+    "Galeegi":
+      10
+    "Poola":
+      11
+    "Rootsi":
+      12
+    "Taani":
+      13
+    "Norra":
+      14
+    "Soome":
+      15
+    "Ungari":
+      16
+    "Tšehhi":
+      17
+    "Slovaki":
+      18
+    "Rumeenia":
+      19
+    "Bulgaaria":
+      20
+    "Horvaadi":
+      21
+    "Serbia keel":
+      22
+    "Bosanski":
+      23
+    "Eesti":
+      24
+    "Läti":
+      25
+    "Leedu":
+      26
+    "Kreeka":
+      27
+    "heebrea":
+      28
+    "Araabia":
+      29
+    "Türgi":
+      30
+    "Tais":
+      31
+    "Vene":
+      32
+    "Ukraina":
+      33
+    "pärsia":
+      34
+    "Svahili":
+      35
+    "Hindi":
+      36
+    "Tamil":
+      37
+    "Indoneesia":
+      38
+    "Vietnami":
+      39
+    "Hiina":
+      40
+    "Koreaane":
+      41
+    "Jaapani":
+      42
+    "malai keel":
+      43
+    "Aserbaidžaani":
+      44
+    "Armeenia":
+      45
+    "Kasahhi":
+      46
+    "Makedoonia":
+      47
+    "Maori":
+      48
+    "Nepali":
+      49
+    "Islandi":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Sloveeniakeel":
+      55
+    "Valgevene":
+      56
+    "Valgevene":
+      57
+    "urdu":
+      58
+  language_learning_levels:
+    "Algaja (A1)":
+      1
+    "Eelkõige (A2)":
+      2
+    "Vahepealne (B1)":
+      3
+    "Ülemine vaheaste (B2)":
+      4
+    "Edasijõudnud (C1)":
+      5
+    "Osav (C2)":
+      6
+  normal_texts: 
+    "Tavalised tekstid"
+  type_topic_conversation: 
+    "Tippige vestluse teema"
+  type_topic_monologue: 
+    "Tüüp monolooge teema"
+  topic_entered: 
+    "Sisesta vestluse teema"
+  new_conversation: 
+    "Uus vestlus"
+  new_monologue: 
+    "Uus monoloog"
+  conversation_level_selected: 
+    "Vestluse tase"
+  languages_selected: 
+    "Keeled valitud"
+  back_to_create_a_new_conversation: 
+    "Tagasi uue vestluse loomise juurde"
+  pronounced as: 
+    "hääldatakse kui"
+  according_to_phonetic_transcription: 
+    "vastavalt Rahvusvahelisele Foneetilisele Alfabetele"
+  no_conversations_available: 
+    "Küsimusi pole saadaval"
+  no_monologues_available: 
+    "Ei ole monolooge saadaval"
+  audience: 
+    "Külastajad"
+  language: 
+    "Keel"
+  tokens_used: 
+    "Kasutatud tokenid"
+  view: 
+    "Vaata"
+  please_wait: 
+    "Palun oota"
+  search: 
+    "Otsi"
+  create_conversation: 
+    "Loo vestlus"
+  create_monologue: 
+    "Loo monoloog"
+  select_language_1: 
+    "Vali esimene keel"
+  select_language_2: 
+    "Vali teine keel"
+  select_conversation_level: 
+    "Vali vestluse tase"
+  select_monologue_level: 
+    "Vali monolooge tase"
+  find_more_conversations_created: 
+    "Leia rohkem vestlusi создайте"
+  find_more_monologues_created: 
+    "Leia rohkem monolooge."
+  we_are_creating_your_bilingual_conversation: 
+    "Me loome teie kakskeelse vestluse"
+  we_are_creating_your_bilingual_monologue: 
+    "Me loome teie kakskeelse monolooge."
+  search_language: 
+    "Otsi keelt"
+  no_results_found: 
+    "Tulemusi ei leitud"
+  enable_audio_language_1:
+    "Luba helisignaal esimeseks keeleks"
+  enable_audio_language_2:
+    "Luba helisüsteem teise keele jaoks"

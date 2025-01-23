@@ -1,0 +1,12 @@
+<% content_for :title, "Editing monologue" %>
+
+<h1>Editing monologue</h1>
+
+<%= render "form", monologue: @monologue %>
+
+<br>
+
+<div>
+  <%= link_to "Show this monologue", @monologue %> |
+  <%= link_to "Back to monologues", monologues_path %>
+</div>

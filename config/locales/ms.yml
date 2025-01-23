@@ -1,0 +1,197 @@
+ms: # Malay
+  language_options:
+    "Bahasa Inggeris":
+      1
+    "Sepanyol":
+      2
+    "Perancis":
+      3
+    "Bahasa Portugis":
+      4
+    "Jerman":
+      5
+    "Belanda":
+      6
+    "Itali":
+      7
+    "Basque":
+      8
+    "Katalan":
+      9
+    "Galicia":
+      10
+    "Polandia":
+      11
+    "Bahasa Sweden":
+      12
+    "Danish":
+      13
+    "Norwegia":
+      14
+    "Finnish":
+      15
+    "Hungaria":
+      16
+    "Czech":
+      17
+    "Slovak":
+      18
+    "Rumania":
+      19
+    "Bulgaria":
+      20
+    "Croatian":
+      21
+    "Serbia":
+      22
+    "Bosnia":
+      23
+    "Estonia":
+      24
+    "Latvian":
+      25
+    "Lituania":
+      26
+    "Yunani":
+      27
+    "Ibrani":
+      28
+    "Arab":
+      29
+    "Turki":
+      30
+    "Thai":
+      31
+    "Rusia":
+      32
+    "Ukrainian":
+      33
+    "Parsi":
+      34
+    "Swahili":
+      35
+    "Hindi":
+      36
+    "Tamil":
+      37
+    "Bahasa Indonesia":
+      38
+    "Vietnamese":
+      39
+    "Cina":
+      40
+    "Korea":
+      41
+    "Jepun":
+      42
+    "Melayu":
+      43
+    "Azerbaijan":
+      44
+    "Armenia":
+      45
+    "Kazakh":
+      46
+    "Macedonian":
+      47
+    "Māori":
+      48
+    "Nepali":
+      49
+    "Bahasa Iceland":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slovenian":
+      55
+    "Welsh":
+      56
+    "Belarusian":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Pemula (A1)":
+      1
+    "Pra-perantaraan (A2)":
+      2
+    "Pertengahan (B1)":
+      3
+    "Pertengahan atas (B2)":
+      4
+    "Lanjutan (C1)":
+      5
+    "Mahir (C2)":
+      6
+  normal_texts: 
+    "Teks biasa"
+  type_topic_conversation: 
+    "Tulis topik perbualan"
+  type_topic_monologue: 
+    "Ketik topik monolog"
+  topic_entered: 
+    "Masukkan topik perbualan"
+  new_conversation: 
+    "Perbualan baru"
+  new_monologue: 
+    "Monolog Baru"
+  conversation_level_selected: 
+    "Tahap Perbualan"
+  languages_selected: 
+    "Bahasa Dipilih"
+  back_to_create_a_new_conversation: 
+    "Kembali untuk Membuat Perbualan Baru"
+  pronounced as: 
+    "diucapkan sebagai"
+  according_to_phonetic_transcription: 
+    "menurut Alfabet Fonetik Antarabangsa"
+  no_conversations_available: 
+    "Tiada Perbualan Tersedia"
+  no_monologues_available: 
+    "Tiada Monolog Tersedia"
+  audience: 
+    "Audien"
+  language: 
+    "Bahasa"
+  tokens_used: 
+    "Tokens digunakan"
+  view: 
+    "Lihat"
+  please_wait: 
+    "Sila tunggu"
+  search: 
+    "Cari"
+  create_conversation: 
+    "Cipta Perbualan"
+  create_monologue: 
+    "Cipta Monolog"
+  select_language_1: 
+    "Pilih bahasa pertama"
+  select_language_2: 
+    "Pilih bahasa kedua"
+  select_conversation_level: 
+    "Pilih Tahap Perbualan"
+  select_monologue_level: 
+    "Pilih Tahap Monolog"
+  find_more_conversations_created: 
+    "Cari Lebih Banyak Perbualan yang Dibuat"
+  find_more_monologues_created: 
+    "Cari Monolog Tambahan Dicipta"
+  we_are_creating_your_bilingual_conversation: 
+    "Kami sedang mencipta perbualan dwibahasa anda"
+  we_are_creating_your_bilingual_monologue: 
+    "Kami sedang mencipta monolog dwibahasa anda"
+  search_language: 
+    "Cari bahasa"
+  no_results_found: 
+    "Tiada hasil ditemui"
+  enable_audio_language_1:
+    "Aktifkan audio untuk bahasa pertama"
+  enable_audio_language_2:
+    "Aktifkan audio untuk bahasa kedua"

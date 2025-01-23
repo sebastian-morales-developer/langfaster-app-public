@@ -1,0 +1,197 @@
+lt: # Lithuanian
+  language_options:
+    "Anglų":
+      1
+    "Ispanų":
+      2
+    "Prancūzų":
+      3
+    "Portugalų":
+      4
+    "Vokiečių":
+      5
+    "Olandų":
+      6
+    "Italų":
+      7
+    "Baskų":
+      8
+    "Katalonų":
+      9
+    "Galičinų":
+      10
+    "Lenkų":
+      11
+    "Švedų":
+      12
+    "Danų":
+      13
+    "Norvegų":
+      14
+    "Suomi":
+      15
+    "Vengrų":
+      16
+    "Čekų":
+      17
+    "Slovakų":
+      18
+    "Rumunų":
+      19
+    "Bulgarų":
+      20
+    "Kroatų":
+      21
+    "Serbų":
+      22
+    "Bosnių":
+      23
+    "Estų":
+      24
+    "Latvių":
+      25
+    "Lietuvių":
+      26
+    "Graikų":
+      27
+    "Hebrajų":
+      28
+    "Arabų":
+      29
+    "Turkų":
+      30
+    "Tajų":
+      31
+    "Rusų":
+      32
+    "Ukrainiečių":
+      33
+    "Persų":
+      34
+    "Suahili":
+      35
+    "Hindi":
+      36
+    "Tamilų":
+      37
+    "Indonezų":
+      38
+    "Vietnamiečių":
+      39
+    "Kinų":
+      40
+    "Korėjiečių":
+      41
+    "Japonų":
+      42
+    "Malaizų":
+      43
+    "Azerbaidžaniečių":
+      44
+    "Armėnų":
+      45
+    "Kazachų":
+      46
+    "Makedonų":
+      47
+    "Maori":
+      48
+    "Nepalietiškai":
+      49
+    "Islandų":
+      50
+    "Afrikaanų":
+      51
+    "Tagalas":
+      52
+    "Kannada":
+      53
+    "Maratų":
+      54
+    "Slovėnų":
+      55
+    "Velsiečių":
+      56
+    "Baltarusų":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Pradedantis (A1)":
+      1
+    "Pradedantis (A2)":
+      2
+    "Vidutinis (B1)":
+      3
+    "Aukštesnis vidurinis (B2)":
+      4
+    "Išplėstinis (C1)":
+      5
+    "Išmanus (C2)":
+      6
+  normal_texts: 
+    "Normalūs tekstai"
+  type_topic_conversation: 
+    "Įrašykite pokalbio temą"
+  type_topic_monologue: 
+    "Nurodykite monologo temą"
+  topic_entered: 
+    "Įveskite pokalbio temą"
+  new_conversation: 
+    "Nauja pokalbis"
+  new_monologue: 
+    "Naujas monologas"
+  conversation_level_selected: 
+    "Pokalbio lygis"
+  languages_selected: 
+    "Pasirinktos kalbos"
+  back_to_create_a_new_conversation: 
+    "Grįžti kurti naują pokalbį"
+  pronounced as: 
+    "ištariama kaip"
+  according_to_phonetic_transcription: 
+    "pagal Tarptautinę fonetinę abėcėlę"
+  no_conversations_available: 
+    "Nėra pokalbių."
+  no_monologues_available: 
+    "Nėra monologų."
+  audience: 
+    "Auditorija"
+  language: 
+    "Kalba"
+  tokens_used: 
+    "Naudoti žodžiai"
+  view: 
+    "Peržiūrėti"
+  please_wait: 
+    "Prašome palaukti"
+  search: 
+    "Paieška"
+  create_conversation: 
+    "Sukurkite pokalbį"
+  create_monologue: 
+    "Sukurkite monologą"
+  select_language_1: 
+    "Pasirinkite pirmąją kalbą"
+  select_language_2: 
+    "Pasirinkite antrąją kalbą"
+  select_conversation_level: 
+    "Pasirinkite pokalbio lygį"
+  select_monologue_level: 
+    "Pasirinkite monologo lygį"
+  find_more_conversations_created: 
+    "Raskite daugiau pokalbių, sukurtų"
+  find_more_monologues_created: 
+    "Raskite daugiau monologų, sukurtų."
+  we_are_creating_your_bilingual_conversation: 
+    "Mes kuriame jūsų dvikalbį pokalbį"
+  we_are_creating_your_bilingual_monologue: 
+    "Mes kuriame jūsų dvikalbį monologą"
+  search_language: 
+    "Paieškos kalba"
+  no_results_found: 
+    "Nerasta rezultatų"
+  enable_audio_language_1:
+    "Įjunkite garsą pirmąjai kalbai"
+  enable_audio_language_2:
+    "Įjunkite garso įrašą antrai kalbai"

@@ -1,0 +1,197 @@
+ca: # Catalan
+  language_options:
+    "Anglès":
+      1
+    "Espanyol":
+      2
+    "Francès":
+      3
+    "Portuguès":
+      4
+    "Alemany":
+      5
+    "Neerlandès":
+      6
+    "Italian":
+      7
+    "Basc":
+      8
+    "Català":
+      9
+    "Gallec":
+      10
+    "Polonès":
+      11
+    "Suec":
+      12
+    "Danès":
+      13
+    "Noruec":
+      14
+    "Finès":
+      15
+    "Hongarès":
+      16
+    "Txec":
+      17
+    "eslovac":
+      18
+    "Romanès":
+      19
+    "Búlgaro":
+      20
+    "Croat":
+      21
+    "Sèrbia":
+      22
+    "Bosniàc":
+      23
+    "Estonià":
+      24
+    "Letó":
+      25
+    "Lituà":
+      26
+    "Grec":
+      27
+    "Hebreu":
+      28
+    "Àrab":
+      29
+    "Turc":
+      30
+    "Tailandès":
+      31
+    "Rus":
+      32
+    "Ucraïnès":
+      33
+    "Persa":
+      34
+    "Suahili":
+      35
+    "Hindi":
+      36
+    "tamil":
+      37
+    "Indonesi":
+      38
+    "Vietnamita":
+      39
+    "Xinès":
+      40
+    "Coreà":
+      41
+    "Japonès":
+      42
+    "malai":
+      43
+    "Azerbaijani":
+      44
+    "Armeni":
+      45
+    "Kazakh":
+      46
+    "Macedoni":
+      47
+    "Maori":
+      48
+    "nepalí":
+      49
+    "Islandès":
+      50
+    "Afrikaans":
+      51
+    "Tagaloc":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Eslovè":
+      55
+    "Gal·lès":
+      56
+    "Bielorús":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Principiant (A1)":
+      1
+    "Pre-intermediari (A2)":
+      2
+    "Intermediari (B1)":
+      3
+    "Intermedi alt (B2)":
+      4
+    "Avançat (C1)":
+      5
+    "Proficient (C2)":
+      6
+  normal_texts: 
+    "Text normals"
+  type_topic_conversation: 
+    "Escriu el tema de la conversa"
+  type_topic_monologue: 
+    "Escriu el tema del monòleg"
+  topic_entered: 
+    "Escriu el tema de conversa"
+  new_conversation: 
+    "Nova conversa"
+  new_monologue: 
+    "Nou monòleg"
+  conversation_level_selected: 
+    "Nivell de conversa"
+  languages_selected: 
+    "Idiomes seleccionats"
+  back_to_create_a_new_conversation: 
+    "Torna a crear una nova conversa"
+  pronounced as: 
+    "pronunciat com"
+  according_to_phonetic_transcription: 
+    "segons l'Alfabets Fonètic Internacional"
+  no_conversations_available: 
+    "No hi ha converses disponibles."
+  no_monologues_available: 
+    "No hi ha monòlegs disponibles"
+  audience: 
+    "Audiència"
+  language: 
+    "Idioma"
+  tokens_used: 
+    "Tokens utilitzats"
+  view: 
+    "Veure"
+  please_wait: 
+    "Si us plau, espera"
+  search: 
+    "Cerca"
+  create_conversation: 
+    "Crea una conversa"
+  create_monologue: 
+    "Crea un monòleg"
+  select_language_1: 
+    "Selecciona la primera llengua"
+  select_language_2: 
+    "Selecciona la segona llengua"
+  select_conversation_level: 
+    "Selecciona el nivell de conversa"
+  select_monologue_level: 
+    "Seleccioneu el nivell de monòleg"
+  find_more_conversations_created: 
+    "Troba més converses creades"
+  find_more_monologues_created: 
+    "Troba més monòlegs creats"
+  we_are_creating_your_bilingual_conversation: 
+    "Estem creant la teva conversa bilingüe."
+  we_are_creating_your_bilingual_monologue: 
+    "Estem creant el teu monòleg bilingüe"
+  search_language: 
+    "Cerca de llenguatge"
+  no_results_found: 
+    "No s'han trobat resultats"
+  enable_audio_language_1:
+    "Activa l'àudio per a la primera llengua"
+  enable_audio_language_2:
+    "Habilita l'àudio per a la segona llengua"

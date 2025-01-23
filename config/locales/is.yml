@@ -1,0 +1,197 @@
+is: # Icelandic
+  language_options:
+    "Enska":
+      1
+    "Spænskur":
+      2
+    "Franska":
+      3
+    "Portúgalska":
+      4
+    "Þýska":
+      5
+    "Hollenskt":
+      6
+    "ítalska":
+      7
+    "Baskneskur":
+      8
+    "Katalónska":
+      9
+    "Galisíska":
+      10
+    "Pólska":
+      11
+    "Sænskur":
+      12
+    "Dönsku":
+      13
+    "Norska":
+      14
+    "Fínska":
+      15
+    "Ungverska":
+      16
+    "Tékkneska":
+      17
+    "Slóvakiska":
+      18
+    "Rúmenska":
+      19
+    "Búlgarska":
+      20
+    "Króatíska":
+      21
+    "Serbneska":
+      22
+    "Bosníska":
+      23
+    "Eistneska":
+      24
+    "Lettiska":
+      25
+    "Litháíska":
+      26
+    "Grískur":
+      27
+    "Hebreska":
+      28
+    "Arabíska":
+      29
+    "Tyrkneska":
+      30
+    "Thai":
+      31
+    "Rússneska":
+      32
+    "Úkraínska":
+      33
+    "Farsí":
+      34
+    "Svahílí":
+      35
+    "Hindi":
+      36
+    "Tamíl":
+      37
+    "Indónesíska":
+      38
+    "Vítamenska":
+      39
+    "Kínverska":
+      40
+    "Kóreska":
+      41
+    "Japanska":
+      42
+    "Malaýsku":
+      43
+    "Aseríska":
+      44
+    "Armenska":
+      45
+    "Kasakiska":
+      46
+    "Makedónska":
+      47
+    "Máóry":
+      48
+    "Nepalska":
+      49
+    "Íslenska":
+      50
+    "Afríkanska":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slóvenska":
+      55
+    "velska":
+      56
+    "Hvítrússneska":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Byrjandi (A1)":
+      1
+    "Fyrir neðan miðlungs (A2)":
+      2
+    "Millistig (B1)":
+      3
+    "Háskólastig (B2)":
+      4
+    "Fyrirferðarstórt (C1)":
+      5
+    "Fremur (C2)":
+      6
+  normal_texts: 
+    "Venjuleg texti"
+  type_topic_conversation: 
+    "Sláðu inn umræðuþemað"
+  type_topic_monologue: 
+    "Sláðu inn efni einræðunnar"
+  topic_entered: 
+    "Sláðu inn umræðuefnið"
+  new_conversation: 
+    "Ný samræða"
+  new_monologue: 
+    "Nýr einleikur"
+  conversation_level_selected: 
+    "Samtalsstig"
+  languages_selected: 
+    "Tungumál valin"
+  back_to_create_a_new_conversation: 
+    "Til baka til að búa til nýja samræðu"
+  pronounced as: 
+    "úttalað sem"
+  according_to_phonetic_transcription: 
+    "samkvæmt alþjóðlegu hljóðkerfisleturinu"
+  no_conversations_available: 
+    "Engar samræður í boði"
+  no_monologues_available: 
+    "Engar einræðar í boði"
+  audience: 
+    "Áhorfendur"
+  language: 
+    "Tungumál"
+  tokens_used: 
+    "Notkun tákna"
+  view: 
+    "Skoða"
+  please_wait: 
+    "Vinsamlegast bíðu"
+  search: 
+    "Leita"
+  create_conversation: 
+    "Búðu til samræður"
+  create_monologue: 
+    "Búðu til monolog."
+  select_language_1: 
+    "Veldu fyrsta tungumálið"
+  select_language_2: 
+    "Veldu annað tungumál"
+  select_conversation_level: 
+    "Veldu samtalsstig"
+  select_monologue_level: 
+    "Veldu einræðu stig"
+  find_more_conversations_created: 
+    "Finndu fleiri samtöl sem búin eru til"
+  find_more_monologues_created: 
+    "Finndu fleiri einleikara sem búin eru til"
+  we_are_creating_your_bilingual_conversation: 
+    "Við erum að búa til tvítyngda samtalið þitt"
+  we_are_creating_your_bilingual_monologue: 
+    "Við erum að búa til tvítyngda einræðu þína"
+  search_language: 
+    "Leita að tungumáli"
+  no_results_found: 
+    "Engin niðurstöður fundust"
+  enable_audio_language_1:
+    "Virkjaðu hljóð fyrir fyrsta tungumálið"
+  enable_audio_language_2:
+    "Virkjaðu hljóð fyrir annað tungumál"

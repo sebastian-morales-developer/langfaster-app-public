@@ -1,0 +1,31 @@
+<div class="col">
+
+  <div class="card shadow-sm ebriwer-bg-album-1">
+      
+    <div class="card-body">
+
+        <p class="card-text text-light">          
+          <%= link_to "«" + conversation.automatic_title_topic + "»", conversation, class: "fw-bold fst-italic fs-5 ebriwer-link-color-1" %>
+          <br>
+          <span class="fw-bold"><%= t('topic_entered') %>: </span><%= truncate(conversation.custom_topic, length: 50) %> <br> 
+          <span class="fw-bold"><%= t('conversation_level_selected') %>: </span><%= I18n.t('language_learning_levels').invert[conversation.level_number] %> <br>                           
+          <span class="fw-bold"><%= t('language') %>: </span><%= I18n.t('language_options').invert[conversation.language_1] %> - <%= I18n.t('language_options').invert[conversation.language_2] %> <br>
+          
+        </p>
+
+  
+
+       
+
+  
+        <br>
+
+        <div class="text-end ">                         
+          <small class="text-body-secondary "><span class="text-light"><%= conversation.created_at.localtime.strftime("%Y-%m-%d %H:%M:%S") %></span></small>
+        </div>
+
+    </div>
+  
+  </div>
+
+</div>

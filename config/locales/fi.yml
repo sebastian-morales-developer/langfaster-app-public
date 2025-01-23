@@ -1,0 +1,197 @@
+fi: # Finnish
+  language_options:
+    "Englanti":
+      1
+    "Espanja":
+      2
+    "Ranska":
+      3
+    "portuguesi":
+      4
+    "Saksa":
+      5
+    "Hollanti":
+      6
+    "Italia":
+      7
+    "baski":
+      8
+    "Katalonia":
+      9
+    "Galicia":
+      10
+    "Puola":
+      11
+    "Ruotsi":
+      12
+    "Tanska":
+      13
+    "norja":
+      14
+    "suomi":
+      15
+    "unkari":
+      16
+    "Tšekki":
+      17
+    "slovakki":
+      18
+    "Romania":
+      19
+    "Bulgari":
+      20
+    "Kroatian":
+      21
+    "Serti":
+      22
+    "Bosnia":
+      23
+    "Viro":
+      24
+    "latvialainen":
+      25
+    "Liettua":
+      26
+    "kreikka":
+      27
+    "heprea":
+      28
+    "arabia":
+      29
+    "turkki":
+      30
+    "thai":
+      31
+    "Venäjä":
+      32
+    "Ukrainalainen":
+      33
+    "Persia":
+      34
+    "Swahili":
+      35
+    "hindi":
+      36
+    "tamili":
+      37
+    "Indonesia":
+      38
+    "vietnamia":
+      39
+    "Kiina":
+      40
+    "Korea":
+      41
+    "Japani":
+      42
+    "Malaiji":
+      43
+    "Aserbajdžaani":
+      44
+    "armenialainen":
+      45
+    "Kazakki":
+      46
+    "Makedonia":
+      47
+    "Māori":
+      48
+    "nepali":
+      49
+    "islanti":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "marathi":
+      54
+    "Sloveeni":
+      55
+    "Walisia":
+      56
+    "Valkovenäjä":
+      57
+    "urdu":
+      58
+  language_learning_levels:
+    "Aloittelija (A1)":
+      1
+    "Esikoulu (A2)":
+      2
+    "Keskitaso (B1)":
+      3
+    "Ylemmän tason kielitaito (B2)":
+      4
+    "Korkeatasoinen (C1)":
+      5
+    "Pätevä (C2)":
+      6
+  normal_texts: 
+    "Normaalit tekstit"
+  type_topic_conversation: 
+    "Kirjoita keskustelun aihe"
+  type_topic_monologue: 
+    "Kirjoita monologin aihe"
+  topic_entered: 
+    "Aihe syötetty"
+  new_conversation: 
+    "Uusi keskustelu"
+  new_monologue: 
+    "Uusi monologi"
+  conversation_level_selected: 
+    "Keskustelutaso"
+  languages_selected: 
+    "Kielet valittu"
+  back_to_create_a_new_conversation: 
+    "Takaisin luomaan uutta keskustelua"
+  pronounced as: 
+    "lausuttu niin"
+  according_to_phonetic_transcription: 
+    "kuuluvat Kansainväliseen foneettiseen aakkostoon"
+  no_conversations_available: 
+    "Ei keskusteluja saatavilla"
+  no_monologues_available: 
+    "Ei monologeja saatavilla"
+  audience: 
+    "Kohdeyleisö"
+  language: 
+    "Kieli"
+  tokens_used: 
+    "Käytetyt tokenit"
+  view: 
+    "Näytä"
+  please_wait: 
+    "Ole hyvä ja odota"
+  search: 
+    "Haku"
+  create_conversation: 
+    "Luo keskustelu"
+  create_monologue: 
+    "Luo monologi"
+  select_language_1: 
+    "Valitse ensimmäinen kieli"
+  select_language_2: 
+    "Valitse toinen kieli"
+  select_conversation_level: 
+    "Valitse keskustelutaso"
+  select_monologue_level: 
+    "Valitse monologitason"
+  find_more_conversations_created: 
+    "Löydä lisää keskusteluja luotuina"
+  find_more_monologues_created: 
+    "Löydä lisää monologeja"
+  we_are_creating_your_bilingual_conversation: 
+    "Luomme kaksikielistä keskustelua."
+  we_are_creating_your_bilingual_monologue: 
+    "Luomme kaksikielistä monologiaasi."
+  search_language: 
+    "Etsi kieli"
+  no_results_found: 
+    "Ei löytynyt tuloksia"
+  enable_audio_language_1:
+    "Ota ääni käyttöön ensikielelle"
+  enable_audio_language_2:
+    "Ota ääni käyttöön toiselle kielelle"

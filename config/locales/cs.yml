@@ -1,0 +1,197 @@
+cs: # Czech
+  language_options:
+    "Angličtina":
+      1
+    "Španělština":
+      2
+    "Francouzština":
+      3
+    "Portugalština":
+      4
+    "Němčina":
+      5
+    "Nizozemština":
+      6
+    "Italština":
+      7
+    "Baskičtina":
+      8
+    "katalánština":
+      9
+    "Galicijština":
+      10
+    "Polština":
+      11
+    "Švédština":
+      12
+    "Dánština":
+      13
+    "Norsk":
+      14
+    "Finština":
+      15
+    "Maďarština":
+      16
+    "Čeština":
+      17
+    "slovenština":
+      18
+    "Rumunština":
+      19
+    "Bulharština":
+      20
+    "Chorvatský":
+      21
+    "srbština":
+      22
+    "Bosenský":
+      23
+    "Estonština":
+      24
+    "Lotyšský":
+      25
+    "Litevština":
+      26
+    "Řečtina":
+      27
+    "Hebrejština":
+      28
+    "Arabština":
+      29
+    "Turečtina":
+      30
+    "Thajština":
+      31
+    "Ruština":
+      32
+    "Ukrajinština":
+      33
+    "Perština":
+      34
+    "Svahilština":
+      35
+    "hindština":
+      36
+    "tamilčina":
+      37
+    "indonéština":
+      38
+    "Vietnamština":
+      39
+    "Čínština":
+      40
+    "Korejština":
+      41
+    "Japonština":
+      42
+    "Malajština":
+      43
+    "Ázerbájdžánština":
+      44
+    "Arménský":
+      45
+    "Kazachština":
+      46
+    "makedonština":
+      47
+    "Maorijština":
+      48
+    "Nepálština":
+      49
+    "Islanďanština":
+      50
+    "Afrikánština":
+      51
+    "Tagalog":
+      52
+    "Kannadština":
+      53
+    "Marathi":
+      54
+    "Slovinština":
+      55
+    "Welština":
+      56
+    "Běloruský":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Začátečník (A1)":
+      1
+    "Předpokročilý (A2)":
+      2
+    "Středně pokročilý (B1)":
+      3
+    "Středně pokročilý (B2)":
+      4
+    "Pokročilý (C1)":
+      5
+    "Pokročilý (C2)":
+      6
+  normal_texts: 
+    "Normální texty"
+  type_topic_conversation: 
+    "Napište téma rozhovoru"
+  type_topic_monologue: 
+    "Napište téma monologu"
+  topic_entered: 
+    "Zadejte téma konverzace"
+  new_conversation: 
+    "Nový rozhovor"
+  new_monologue: 
+    "Nový monolog"
+  conversation_level_selected: 
+    "Úroveň konverzace"
+  languages_selected: 
+    "Vybrané jazyky"
+  back_to_create_a_new_conversation: 
+    "Zpět k vytvoření nového rozhovoru"
+  pronounced as: 
+    "vysloveno jako"
+  according_to_phonetic_transcription: 
+    "podle Mezinárodní fonetické abecedy"
+  no_conversations_available: 
+    "Žádné konverzace nejsou k dispozici"
+  no_monologues_available: 
+    "Žádné monology nejsou k dispozici."
+  audience: 
+    "Publikum"
+  language: 
+    "Jazyk"
+  tokens_used: 
+    "Použité tokeny"
+  view: 
+    "Zobrazit"
+  please_wait: 
+    "Prosím, počkejte"
+  search: 
+    "Hledat"
+  create_conversation: 
+    "Vytvořte konverzaci"
+  create_monologue: 
+    "Vytvořte monolog"
+  select_language_1: 
+    "Vyberte první jazyk"
+  select_language_2: 
+    "Vyberte druhý jazyk"
+  select_conversation_level: 
+    "Vyberte úroveň konverzace"
+  select_monologue_level: 
+    "Vyberte úroveň monologu"
+  find_more_conversations_created: 
+    "Najděte více konverzací vytvořených"
+  find_more_monologues_created: 
+    "Najděte více monologů vytvořených"
+  we_are_creating_your_bilingual_conversation: 
+    "Vytváříme vaši bilingvní konverzaci"
+  we_are_creating_your_bilingual_monologue: 
+    "Vytváříme váš dvojjazyčný monolog"
+  search_language: 
+    "Hledejte jazyk"
+  no_results_found: 
+    "Nebyly nalezeny žádné výsledky."
+  enable_audio_language_1:
+    "Povolit zvuk pro první jazyk"
+  enable_audio_language_2:
+    "Povolte zvuk pro druhý jazyk"

@@ -1,0 +1,197 @@
+hu: # Hungarian
+  language_options:
+    "Angol":
+      1
+    "spanyol":
+      2
+    "Francia":
+      3
+    "portugál":
+      4
+    "Német":
+      5
+    "Holland":
+      6
+    "olasz":
+      7
+    "Baszk":
+      8
+    "Katalán":
+      9
+    "Galíciai":
+      10
+    "Lengyel":
+      11
+    "svéd":
+      12
+    "Dán":
+      13
+    "norvég":
+      14
+    "finnugor":
+      15
+    "Magyar":
+      16
+    "Cseh":
+      17
+    "Szlovák":
+      18
+    "román":
+      19
+    "bolgár":
+      20
+    "Horvát":
+      21
+    "szerb":
+      22
+    "bosnyák":
+      23
+    "észt":
+      24
+    "lett":
+      25
+    "litván":
+      26
+    "Görög":
+      27
+    "héber":
+      28
+    "Arab":
+      29
+    "török":
+      30
+    "thai":
+      31
+    "Orosz":
+      32
+    "ukrán":
+      33
+    "perzsa":
+      34
+    "szuahéli":
+      35
+    "Hindi":
+      36
+    "tamil":
+      37
+    "indonéz":
+      38
+    "vietnámi":
+      39
+    "kínai":
+      40
+    "Koreai":
+      41
+    "japán":
+      42
+    "maláj":
+      43
+    "Azerbajdzsáni":
+      44
+    "örmény":
+      45
+    "kazak":
+      46
+    "macedóniai":
+      47
+    "Māori":
+      48
+    "Nepáli":
+      49
+    "izlandi":
+      50
+    "Afrikáans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "marathi":
+      54
+    "Szlovén":
+      55
+    "Walesi":
+      56
+    "belorusz":
+      57
+    "urdu":
+      58
+  language_learning_levels:
+    "Kezdő (A1)":
+      1
+    "Középhaladó (A2)":
+      2
+    "Középfokú (B1)":
+      3
+    "Felső középfok (B2)":
+      4
+    "Haladó (C1)":
+      5
+    "Proficient (C2)":
+      6
+  normal_texts: 
+    "Normál szövegek"
+  type_topic_conversation: 
+    "Írd le a beszélgetés témáját"
+  type_topic_monologue: 
+    "Írd le a monológ témáját"
+  topic_entered: 
+    "Téma beírása"
+  new_conversation: 
+    "Új beszélgetés"
+  new_monologue: 
+    "Új monológ"
+  conversation_level_selected: 
+    "Beszélgetési szint"
+  languages_selected: 
+    "Nyelvek kiválasztva"
+  back_to_create_a_new_conversation: 
+    "Vissza a új beszélgetés létrehozásához"
+  pronounced as: 
+    "kiejtve mint"
+  according_to_phonetic_transcription: 
+    "az International Phonetic Alphabet szerint"
+  no_conversations_available: 
+    "Nincsenek elérhető beszélgetések"
+  no_monologues_available: 
+    "Nincsenek monológok elérhetők"
+  audience: 
+    "Közönség"
+  language: 
+    "Nyelv"
+  tokens_used: 
+    "Használja a tokeneket"
+  view: 
+    "Nézd"
+  please_wait: 
+    "Kérem, várjon"
+  search: 
+    "Keresés"
+  create_conversation: 
+    "Hozz létre egy beszélgetést"
+  create_monologue: 
+    "Készíts monológot"
+  select_language_1: 
+    "Válaszd ki az első nyelvet"
+  select_language_2: 
+    "Válassza ki a második nyelvet"
+  select_conversation_level: 
+    "Válaszd ki a beszélgetési szintet"
+  select_monologue_level: 
+    "Válassza ki a monológ szintjét"
+  find_more_conversations_created: 
+    "További beszélgetések keresése"
+  find_more_monologues_created: 
+    "Találj több monológot készítettél"
+  we_are_creating_your_bilingual_conversation: 
+    "Két nyelvű beszélgetést készítünk."
+  we_are_creating_your_bilingual_monologue: 
+    "Készítjük a kétnyelvű monológodat"
+  search_language: 
+    "Keresési nyelv"
+  no_results_found: 
+    "Nem található eredmény."
+  enable_audio_language_1:
+    "Engedélyezze az audiót az első nyelvhez"
+  enable_audio_language_2:
+    "Engedélyezze a hangot a második nyelvhez"

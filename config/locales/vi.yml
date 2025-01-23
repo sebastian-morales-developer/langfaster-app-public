@@ -1,0 +1,197 @@
+vi: # Vietnamese
+  language_options:
+    "Tiếng Anh":
+      1
+    "Tiếng Tây Ban Nha":
+      2
+    "tiếng Pháp":
+      3
+    "Tiếng Bồ Đào Nha":
+      4
+    "Đức":
+      5
+    "Hà Lan":
+      6
+    "Tiếng Ý":
+      7
+    "Ng Basque":
+      8
+    "Catalan":
+      9
+    "Galician":
+      10
+    "Ba Lan":
+      11
+    "Thụy Điển":
+      12
+    "Đan Mạch":
+      13
+    "Na Uy":
+      14
+    "Phần Lan":
+      15
+    "Tiếng Hungary":
+      16
+    "Séc":
+      17
+    "Slovakian":
+      18
+    "Tiếng Romania":
+      19
+    "Bulgaria":
+      20
+    "Tiếng Croatia":
+      21
+    "Tiếng Serbia":
+      22
+    "Bosnian":
+      23
+    "Tiếng Estonian":
+      24
+    "Latviešu":
+      25
+    "Litva":
+      26
+    "Tiếng Hy Lạp":
+      27
+    "Tiếng Do Thái":
+      28
+    "Tiếng Ả Rập":
+      29
+    "Tiếng Thổ Nhĩ Kỳ":
+      30
+    "Thái":
+      31
+    "Tiếng Nga":
+      32
+    "Tiếng Ukraina":
+      33
+    "Ba Tư":
+      34
+    "Tiếng Swahili":
+      35
+    "Hindi":
+      36
+    "Tamil":
+      37
+    "Tiếng Indonesia":
+      38
+    "Tiếng Việt":
+      39
+    "Tiếng Trung":
+      40
+    "Tiếng Hàn":
+      41
+    "Nhật Bản":
+      42
+    "Malaixia":
+      43
+    "Azerbaijani":
+      44
+    "Armenian":
+      45
+    "Kazakh":
+      46
+    "Macedonian":
+      47
+    "Tiếng Maori":
+      48
+    "Nepalese":
+      49
+    "Icelandic":
+      50
+    "Tiếng Afrikaans":
+      51
+    "Tiếng Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Tiếng Slovenia":
+      55
+    "Tiếng Wales":
+      56
+    "Bêlarut":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Người mới bắt đầu (A1)":
+      1
+    "Trung cấp (A2)":
+      2
+    "Trung cấp (B1)":
+      3
+    "Trung cấp (B2)":
+      4
+    "Nâng cao (C1)":
+      5
+    "Thành thạo (C2)":
+      6
+  normal_texts: 
+    "Văn bản bình thường"
+  type_topic_conversation: 
+    "Gõ chủ đề của cuộc trò chuyện"
+  type_topic_monologue: 
+    "Gõ chủ đề của bài độc thoại"
+  topic_entered: 
+    "Nhập chủ đề cuộc trò chuyện"
+  new_conversation: 
+    "Cuộc trò chuyện mới"
+  new_monologue: 
+    "Monologue mới"
+  conversation_level_selected: 
+    "Cấp độ cuộc trò chuyện"
+  languages_selected: 
+    "Ngôn ngữ đã chọn"
+  back_to_create_a_new_conversation: 
+    "Quay lại Tạo một Cuộc trò chuyện mới"
+  pronounced as: 
+    "được phát âm là"
+  according_to_phonetic_transcription: 
+    "theo Bảng Chữ cái Quốc tế"
+  no_conversations_available: 
+    "Không có cuộc trò chuyện nào."
+  no_monologues_available: 
+    "Không có Monologues nào có sẵn"
+  audience: 
+    "Khán giả"
+  language: 
+    "Ngôn ngữ"
+  tokens_used: 
+    "Sử dụng token"
+  view: 
+    "Xem"
+  please_wait: 
+    "Vui lòng chờ"
+  search: 
+    "Tìm kiếm"
+  create_conversation: 
+    "Tạo cuộc trò chuyện"
+  create_monologue: 
+    "Tạo đơn thoại"
+  select_language_1: 
+    "Chọn ngôn ngữ đầu tiên"
+  select_language_2: 
+    "Chọn ngôn ngữ thứ hai"
+  select_conversation_level: 
+    "Chọn mức độ cuộc trò chuyện"
+  select_monologue_level: 
+    "Chọn cấp độ độc thoại"
+  find_more_conversations_created: 
+    "Tìm thêm cuộc trò chuyện đã tạo"
+  find_more_monologues_created: 
+    "Tìm thêm độc thoại được tạo ra"
+  we_are_creating_your_bilingual_conversation: 
+    "Chúng tôi đang tạo cuộc hội thoại song ngữ của bạn"
+  we_are_creating_your_bilingual_monologue: 
+    "Chúng tôi đang tạo bài độc thoại song ngữ của bạn"
+  search_language: 
+    "Tìm kiếm ngôn ngữ"
+  no_results_found: 
+    "Không tìm thấy kết quả nào"
+  enable_audio_language_1:
+    "Bật âm thanh cho ngôn ngữ đầu tiên"
+  enable_audio_language_2:
+    "Bật âm thanh cho ngôn ngữ thứ hai"

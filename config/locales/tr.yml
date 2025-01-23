@@ -1,0 +1,197 @@
+tr: # Turkish
+  language_options:
+    "İngilizce":
+      1
+    "İspanyolca":
+      2
+    "Fransızca":
+      3
+    "Portekizce":
+      4
+    "Almanca":
+      5
+    "Hollandaca":
+      6
+    "İtalyanca":
+      7
+    "Baskça":
+      8
+    "Katalanca":
+      9
+    "Galiçyaca":
+      10
+    "Lehçe":
+      11
+    "İsveççe":
+      12
+    "Danca":
+      13
+    "Norveççe":
+      14
+    "Fince":
+      15
+    "Macarca":
+      16
+    "Çekçe":
+      17
+    "Slovakça":
+      18
+    "Romence":
+      19
+    "Bulgarca":
+      20
+    "Hırvatça":
+      21
+    "Sırpça":
+      22
+    "Boşnakça":
+      23
+    "Estonca":
+      24
+    "Letonca":
+      25
+    "Litvanca":
+      26
+    "Yunanca":
+      27
+    "İbrani":
+      28
+    "Arapça":
+      29
+    "Türkçe":
+      30
+    "Tayca":
+      31
+    "Rusça":
+      32
+    "Ukrayca":
+      33
+    "Farsça":
+      34
+    "Svahili":
+      35
+    "Hintçe":
+      36
+    "Tamilce":
+      37
+    "Endonezce":
+      38
+    "Vietnamca":
+      39
+    "Çince":
+      40
+    "Korece":
+      41
+    "Japonca":
+      42
+    "Malayca":
+      43
+    "Azerice":
+      44
+    "Ermeni":
+      45
+    "Kazakça":
+      46
+    "Makedonca":
+      47
+    "Maori":
+      48
+    "Nepalce":
+      49
+    "İzlandaca":
+      50
+    "Afrikaanstype":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slovence":
+      55
+    "Galce":
+      56
+    "Belarusça":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Başlangıç (A1)":
+      1
+    "Ön intermediate (A2)":
+      2
+    "Orta düzey (B1)":
+      3
+    "Üst orta düzey (B2)":
+      4
+    "İleri düzey (C1)":
+      5
+    "Yeterlilik (C2)":
+      6
+  normal_texts: 
+    "Normal metinler"
+  type_topic_conversation: 
+    "Sohbetin konusunu yazın"
+  type_topic_monologue: 
+    "Monologun konusunu yazın"
+  topic_entered: 
+    "Konu girildi"
+  new_conversation: 
+    "Yeni Sohbet"
+  new_monologue: 
+    "Yeni Monolog"
+  conversation_level_selected: 
+    "Konuşma Seviyesi"
+  languages_selected: 
+    "Diller Seçildi"
+  back_to_create_a_new_conversation: 
+    "Yeni Bir Sohbet Oluşturmak için Geri Dön"
+  pronounced as: 
+    "şu şekilde telaffuz edilir"
+  according_to_phonetic_transcription: 
+    "Uluslararası Fonetik Alfabesi'ne göre"
+  no_conversations_available: 
+    "Konuşma Yok"
+  no_monologues_available: 
+    "Monolog Yok"
+  audience: 
+    "Hedef kitle"
+  language: 
+    "Dil"
+  tokens_used: 
+    "Kullanılan tokenlar"
+  view: 
+    "Görünüm"
+  please_wait: 
+    "Lütfen bekleyin"
+  search: 
+    "Araştırma"
+  create_conversation: 
+    "Sohbet Oluştur"
+  create_monologue: 
+    "Monolog oluşturun"
+  select_language_1: 
+    "İlk dili seçin"
+  select_language_2: 
+    "İkinci dili seçin"
+  select_conversation_level: 
+    "Sohbet Seviyesi Seçin"
+  select_monologue_level: 
+    "Seç Monolog Seviyesi"
+  find_more_conversations_created: 
+    "Daha Fazla Sohbet Bulun"
+  find_more_monologues_created: 
+    "Daha Fazla Monolog Bulun"
+  we_are_creating_your_bilingual_conversation: 
+    "İki dilli konuşmanızı oluşturuyoruz."
+  we_are_creating_your_bilingual_monologue: 
+    "İki dilli monoloğunuzu oluşturuyoruz."
+  search_language: 
+    "Arama dili"
+  no_results_found: 
+    "Hiçbir sonuç bulunamadı."
+  enable_audio_language_1:
+    "İlk dil için sesi etkinleştir"
+  enable_audio_language_2:
+    "İkinci dil için sesi etkinleştir"

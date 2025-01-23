@@ -1,0 +1,197 @@
+sw: # Swahili
+  language_options:
+    "Kiingereza":
+      1
+    "Kihispania":
+      2
+    "Kifaransa":
+      3
+    "Kihispaniola":
+      4
+    "Kijerumani":
+      5
+    "Kiholanzi":
+      6
+    "Kihispania":
+      7
+    "Baskiska":
+      8
+    "Katalan":
+      9
+    "Galisiya":
+      10
+    "Polski":
+      11
+    "Kiswidi":
+      12
+    "Kidenmaki":
+      13
+    "Knorwegia":
+      14
+    "Kifini":
+      15
+    "Kihungari":
+      16
+    "Czeski":
+      17
+    "Slovaki":
+      18
+    "Kiholanzi":
+      19
+    "Bulgaria":
+      20
+    "Kroatian":
+      21
+    "Serbia":
+      22
+    "Boşnakça":
+      23
+    "Kiesti":
+      24
+    "Latviski":
+      25
+    "Lituania":
+      26
+    "Kigiriki":
+      27
+    "Kihéberu":
+      28
+    "Kiarabu":
+      29
+    "Kituruki":
+      30
+    "Kithai":
+      31
+    "Kirusi":
+      32
+    "Ukrainia":
+      33
+    "Kiparsia":
+      34
+    "Kiswahili":
+      35
+    "Hindi":
+      36
+    "Kichina":
+      37
+    "Kiswahili":
+      38
+    "Kih Vietname":
+      39
+    "Kichina":
+      40
+    "Kihangileng ":
+      41
+    "Kijapani":
+      42
+    "Malayo":
+      43
+    "Azerbaijani":
+      44
+    "Kiarmeenia":
+      45
+    "Kazakh":
+      46
+    "Makedonski":
+      47
+    "Maori":
+      48
+    "Nepali":
+      49
+    "Icelandic":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slovenski":
+      55
+    "Kiwelsh":
+      56
+    "Bielorusi":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Mwanzo (A1)":
+      1
+    "Kiwango cha kati (A2)":
+      2
+    "Kati kati (B1)":
+      3
+    "Kati ya juu (B2)":
+      4
+    "Madvanced (C1)":
+      5
+    "Mtaalamu (C2)":
+      6
+  normal_texts: 
+    "Maandishi ya kawaida"
+  type_topic_conversation: 
+    "Andika mada ya mazungumzo"
+  type_topic_monologue: 
+    "Andika mada ya monologue"
+  topic_entered: 
+    "Ingiza mada ya mazungumzo"
+  new_conversation: 
+    "Mazungumzo Mapya"
+  new_monologue: 
+    "Monologue Mpya"
+  conversation_level_selected: 
+    "Ngazi ya mazungumzo"
+  languages_selected: 
+    "Lugha zilizochaguliwa"
+  back_to_create_a_new_conversation: 
+    "Rudi kuunda mazungumzo mapya"
+  pronounced as: 
+    "inasemekana kama"
+  according_to_phonetic_transcription: 
+    "kulingana na Alifabeati ya Kimataifa ya Kifonolojia"
+  no_conversations_available: 
+    "Hakuna Mazungumzo Yanayopatikana"
+  no_monologues_available: 
+    "Hakuna Monologu Zinazopatikana"
+  audience: 
+    "Hadhi"
+  language: 
+    "Lugha"
+  tokens_used: 
+    "Tumia tokens zilizotumika"
+  view: 
+    "Tazama"
+  please_wait: 
+    "Tafadhali subiri"
+  search: 
+    "Tafuta"
+  create_conversation: 
+    "Unda Mazungumzo"
+  create_monologue: 
+    "Unda Monologue"
+  select_language_1: 
+    "Chagua lugha ya kwanza"
+  select_language_2: 
+    "Chagua lugha ya pili"
+  select_conversation_level: 
+    "Chagua Kiwango cha Mazungumzo"
+  select_monologue_level: 
+    "Chagua Kiwango cha Monologue"
+  find_more_conversations_created: 
+    "Pata Mazungumzo Zaidi yaliyoundwa"
+  find_more_monologues_created: 
+    "Pata Monologue Zaidi zilizoundwa"
+  we_are_creating_your_bilingual_conversation: 
+    "Tunaunda mazungumzo yako ya lugha mbili"
+  we_are_creating_your_bilingual_monologue: 
+    "Tunaunda monologue yako ya kibilingual"
+  search_language: 
+    "Tafuta lugha"
+  no_results_found: 
+    "Hakuna matokeo yaliyopatikana"
+  enable_audio_language_1:
+    "Washa sauti kwa lugha ya kwanza"
+  enable_audio_language_2:
+    "wezesha sauti kwa lugha ya pili"

@@ -1,0 +1,16 @@
+<div class="album py-5 ebriwer-bg-body-1">
+    
+    <div class="container">
+        <h2><%= t("find_more_monologues_created") %></h2> <br>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3  g-3">
+            <% if @monologues.present? %>
+                <% @monologues.reverse.each do |monologue| %>
+                    <%= render monologue %>
+                <% end %>
+            <% else %>
+                <p><%= t("no_monologues_available") %></p>
+            <% end %>
+        </div>
+    </div>
+        
+</div>

@@ -1,0 +1,197 @@
+pt: # Portuguese
+  language_options:
+    "Inglês":
+      1
+    "Espanhol":
+      2
+    "Francês":
+      3
+    "Português":
+      4
+    "Alemão":
+      5
+    "Holandês":
+      6
+    "Italiano":
+      7
+    "Basco":
+      8
+    "Catalão":
+      9
+    "Galego":
+      10
+    "Polonês":
+      11
+    "Sueco":
+      12
+    "Dinamarquês":
+      13
+    "Norueguês":
+      14
+    "Finlandês":
+      15
+    "Húngaro":
+      16
+    "Checo":
+      17
+    "Eslovaco":
+      18
+    "Romeno":
+      19
+    "Búlgaro":
+      20
+    "Croata":
+      21
+    "Sérvio":
+      22
+    "Bósnio":
+      23
+    "Estoniano":
+      24
+    "Letão":
+      25
+    "Lituano":
+      26
+    "Grego":
+      27
+    "Hebraico":
+      28
+    "Árabe":
+      29
+    "Turco":
+      30
+    "Tailandês":
+      31
+    "Russo":
+      32
+    "Ucraniano":
+      33
+    "Persa":
+      34
+    "Suaíli":
+      35
+    "Hindi":
+      36
+    "Tâmil":
+      37
+    "Indonésio":
+      38
+    "Vietnamita":
+      39
+    "Chinês":
+      40
+    "Coreano":
+      41
+    "Japonês":
+      42
+    "Malaio":
+      43
+    "Azerbaijano":
+      44
+    "Armênio":
+      45
+    "Cazaque":
+      46
+    "Macedônio":
+      47
+    "Maori":
+      48
+    "Nepalês":
+      49
+    "Islandês":
+      50
+    "Africâner":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marata":
+      54
+    "Esloveno":
+      55
+    "Gales":
+      56
+    "Bielorrusso":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Iniciante (A1)":
+      1
+    "Pré-intermediário (A2)":
+      2
+    "Intermediário (B1)":
+      3
+    "Intermediário superior (B2)":
+      4
+    "Avançado (C1)":
+      5
+    "Proficiente (C2)":
+      6
+  normal_texts: 
+    "Textos normais"
+  type_topic_conversation: 
+    "Digite o tópico da conversa"
+  type_topic_monologue: 
+    "Digite o tópico do monólogo"
+  topic_entered: 
+    "Digite o tópico da conversa"
+  new_conversation: 
+    "Nova Conversa"
+  new_monologue: 
+    "Novo Monólogo"
+  conversation_level_selected: 
+    "Nível de Conversa"
+  languages_selected: 
+    "Idiomas Selecionados"
+  back_to_create_a_new_conversation: 
+    "Voltar para Criar uma Nova Conversa"
+  pronounced as: 
+    "pronunciado como"
+  according_to_phonetic_transcription: 
+    "de acordo com o Alfabeto Fonético Internacional"
+  no_conversations_available: 
+    "Nenhuma conversa disponível"
+  no_monologues_available: 
+    "Nenhum monólogo disponível"
+  audience: 
+    "Público"
+  language: 
+    "Idioma"
+  tokens_used: 
+    "Tokens usados"
+  view: 
+    "Ver"
+  please_wait: 
+    "Por favor, aguarde"
+  search: 
+    "Pesquisar"
+  create_conversation: 
+    "Crie a conversa"
+  create_monologue: 
+    "Crie um monólogo"
+  select_language_1: 
+    "Selecione o primeiro idioma"
+  select_language_2: 
+    "Selecione o segundo idioma"
+  select_conversation_level: 
+    "Selecione o nível de conversa"
+  select_monologue_level: 
+    "Selecione o Nível do Monólogo"
+  find_more_conversations_created: 
+    "Encontre mais conversas criadas"
+  find_more_monologues_created: 
+    "Encontre mais monólogos criados"
+  we_are_creating_your_bilingual_conversation: 
+    "Estamos criando sua conversa bilíngue"
+  we_are_creating_your_bilingual_monologue: 
+    "Estamos criando seu monólogo bilíngue"
+  search_language: 
+    "Pesquisar idioma"
+  no_results_found: 
+    "Nenhum resultado encontrado"
+  enable_audio_language_1:
+    "Ative o áudio para o primeiro idioma"
+  enable_audio_language_2:
+    "Ative o áudio para o segundo idioma"

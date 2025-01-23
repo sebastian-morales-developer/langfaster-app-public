@@ -1,0 +1,197 @@
+sv: # Swedish
+  language_options:
+    "Engelska":
+      1
+    "Spanska":
+      2
+    "Franska":
+      3
+    "Portugisiska":
+      4
+    "Tyska":
+      5
+    "Nederländska":
+      6
+    "Italienska":
+      7
+    "Baskiska":
+      8
+    "Katalanska":
+      9
+    "Galiciska":
+      10
+    "Polska":
+      11
+    "Svenska":
+      12
+    "Danska":
+      13
+    "Norska":
+      14
+    "Finska":
+      15
+    "Ungerska":
+      16
+    "Tjeckiska":
+      17
+    "Slovakiska":
+      18
+    "Rumänska":
+      19
+    "Bulgariska":
+      20
+    "Kroatiska":
+      21
+    "Serbiska":
+      22
+    "Bosniska":
+      23
+    "Estiska":
+      24
+    "Lettiska":
+      25
+    "Litauiska":
+      26
+    "Grekiska":
+      27
+    "Hebreiska":
+      28
+    "Arabiska":
+      29
+    "Turkiska":
+      30
+    "Thailändska":
+      31
+    "Ryska":
+      32
+    "Ukrainska":
+      33
+    "Persiska":
+      34
+    "Swahili":
+      35
+    "Hindi":
+      36
+    "Tamil":
+      37
+    "Indonesiska":
+      38
+    "Vietnamesiska":
+      39
+    "Kinesiska":
+      40
+    "Koreanska":
+      41
+    "Japanska":
+      42
+    "Malayiska":
+      43
+    "Azeriska":
+      44
+    "Armeniska":
+      45
+    "Kazakiska":
+      46
+    "Makedonska":
+      47
+    "Maori":
+      48
+    "Nepali":
+      49
+    "Isländska":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Kannada":
+      53
+    "Marathi":
+      54
+    "Slovenska":
+      55
+    "Walesiska":
+      56
+    "Vitryska":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Nybörjare (A1)":
+      1
+    "Pre-intermediate (A2)":
+      2
+    "Mellanliggande (B1)":
+      3
+    "Övre medelnivå (B2)":
+      4
+    "Avancerad (C1)":
+      5
+    "Kunnig (C2)":
+      6
+  normal_texts: 
+    "Normala texter"
+  type_topic_conversation: 
+    "Skriv ämnet för samtalet"
+  type_topic_monologue: 
+    "Skriv ämnet för monologen"
+  topic_entered: 
+    "Ämnet som anges"
+  new_conversation: 
+    "Ny konversation"
+  new_monologue: 
+    "Ny monolog"
+  conversation_level_selected: 
+    "Samtalsnivå"
+  languages_selected: 
+    "Språk valda"
+  back_to_create_a_new_conversation: 
+    "Tillbaka för att skapa en ny konversation"
+  pronounced as: 
+    "uttalas som"
+  according_to_phonetic_transcription: 
+    "enligt den internationella fonetiska alfabetet"
+  no_conversations_available: 
+    "Inga konversationer tillgängliga"
+  no_monologues_available: 
+    "Inga monologer tillgängliga"
+  audience: 
+    "Publik"
+  language: 
+    "Språk"
+  tokens_used: 
+    "Använda tokens"
+  view: 
+    "Visa"
+  please_wait: 
+    "Vänligen vänta"
+  search: 
+    "Sök"
+  create_conversation: 
+    "Skapa konversation"
+  create_monologue: 
+    "Skapa monolog"
+  select_language_1: 
+    "Välj först språk"
+  select_language_2: 
+    "Välj andraspråk"
+  select_conversation_level: 
+    "Välj konversationsnivå"
+  select_monologue_level: 
+    "Välj monolognivå"
+  find_more_conversations_created: 
+    "Hitta fler konversationer som skapats"
+  find_more_monologues_created: 
+    "Hitta fler monologer skapade"
+  we_are_creating_your_bilingual_conversation: 
+    "Vi skapar din tvåspråkiga konversation"
+  we_are_creating_your_bilingual_monologue: 
+    "Vi skapar din tvåspråkiga monolog"
+  search_language: 
+    "Sök språk"
+  no_results_found: 
+    "Inga resultat hittades"
+  enable_audio_language_1:
+    "Aktivera ljud för första språket"
+  enable_audio_language_2:
+    "Aktivera ljud för andraspråk"

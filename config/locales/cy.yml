@@ -1,0 +1,197 @@
+cy: # Welsh
+  language_options:
+    "Saesneg":
+      1
+    "Sbaeneg":
+      2
+    "Ffrangeg":
+      3
+    "Portiwgaleg":
+      4
+    "Almaeneg":
+      5
+    "Iseldireg":
+      6
+    "Eidaleg":
+      7
+    "Basgeg":
+      8
+    "Catalan":
+      9
+    "Galisia":
+      10
+    "Polski":
+      11
+    "Swedeg":
+      12
+    "Daneg Gymraeg":
+      13
+    "Norwyeg":
+      14
+    "Ffinnese":
+      15
+    "Hwngari":
+      16
+    "Tsjechig":
+      17
+    "Sloffieg":
+      18
+    "Romana":
+      19
+    "Bwlgariaidd":
+      20
+    "Croateg":
+      21
+    "Syrieg":
+      22
+    "Bosnaidd":
+      23
+    "Estoneg":
+      24
+    "Latviešu":
+      25
+    "Lithwaniaidd":
+      26
+    "Groeg":
+      27
+    "Hebraeg":
+      28
+    "Arabeg":
+      29
+    "-Twrcaidd":
+      30
+    "Thai":
+      31
+    "Rwsiaidd":
+      32
+    "Wcregian":
+      33
+    "Persa":
+      34
+    "Swahili":
+      35
+    "Hindi":
+      36
+    "Tamilaidd":
+      37
+    "Indonesiaidd":
+      38
+    "Fietnameg":
+      39
+    "Tsieineaidd":
+      40
+    "Coreaeg":
+      41
+    "Japaneaidd":
+      42
+    "Malayceg":
+      43
+    "Azerbaijani":
+      44
+    "Armeneg":
+      45
+    "Kasakhisch":
+      46
+    "Macedoneg":
+      47
+    "Māori":
+      48
+    "Nepaleg":
+      49
+    "Isladdig":
+      50
+    "Afrikaans":
+      51
+    "Tagalog":
+      52
+    "Cannae":
+      53
+    "Marathi":
+      54
+    "Slafonig":
+      55
+    "Cymraeg":
+      56
+    "Belarussian":
+      57
+    "Urdu":
+      58
+  language_learning_levels:
+    "Dechreuwr (A1)":
+      1
+    "Cynradd-rydd (A2)":
+      2
+    "Canolradd (B1)":
+      3
+    "Uwchgyffredinol (B2)":
+      4
+    "Uwch gyfieithwr (C1)":
+      5
+    "Proffesiynol (C2)":
+      6
+  normal_texts: 
+    "Testunau cyffredin"
+  type_topic_conversation: 
+    "Teipiwch y pwnc sgwrs."
+  type_topic_monologue: 
+    "Ysgrifennwch destun y monolog."
+  topic_entered: 
+    "Topic a gynhelir"
+  new_conversation: 
+    "Sgwrs Newydd"
+  new_monologue: 
+    "Monolog Newydd"
+  conversation_level_selected: 
+    "Lefel sgwrs"
+  languages_selected: 
+    "Iaith wedi'i dewis"
+  back_to_create_a_new_conversation: 
+    "Dychwelyd i greu sgwrs newydd"
+  pronounced as: 
+    "a alwyd yn"
+  according_to_phonetic_transcription: 
+    "yn unol â'r Ffônedigaeth Ryngwladol"
+  no_conversations_available: 
+    "Dim sgwrsiau ar gael"
+  no_monologues_available: 
+    "Dim Monologau ar Gael."
+  audience: 
+    "Cynulleidfa"
+  language: 
+    "Iaith"
+  tokens_used: 
+    "Defnyddiwch ddirprwy."
+  view: 
+    "Gwyliwch"
+  please_wait: 
+    "Pleidiwch aros"
+  search: 
+    "Chwilio"
+  create_conversation: 
+    "Creu Sgwrs"
+  create_monologue: 
+    "Creu Monolog"
+  select_language_1: 
+    "Dewiswch iaith gyntaf"
+  select_language_2: 
+    "Dewis iaith ail"
+  select_conversation_level: 
+    "Dewiswch lefel sgwrs."
+  select_monologue_level: 
+    "Dewis Lefel Monolog"
+  find_more_conversations_created: 
+    "Dewch o hyd i fwy o sgyrsiau a grëwyd"
+  find_more_monologues_created: 
+    "Dewch o hyd i fwy o fonologau a grëwyd"
+  we_are_creating_your_bilingual_conversation: 
+    "Rydym yn creu eich sgwrs ddwyieithog"
+  we_are_creating_your_bilingual_monologue: 
+    "Rydym yn creu eich monolog dwyieithog"
+  search_language: 
+    "Chwilio iaith"
+  no_results_found: 
+    "Dim canlyniadau wedi'u darganfod"
+  enable_audio_language_1:
+    "Galluogwch sain ar gyfer y gyntaf iaith"
+  enable_audio_language_2:
+    "Galluogwch sain ar gyfer yr ail iaith"

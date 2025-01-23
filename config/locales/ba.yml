@@ -1,0 +1,197 @@
+ba: # Basque
+  language_options:
+    "Ingelesa":
+      1
+    "Espainiarra":
+      2
+    "Frantses":
+      3
+    "portuges":
+      4
+    "Alemaniera":
+      5
+    "Herbeherea":
+      6
+    "Italiarra":
+      7
+    "Euskara":
+      8
+    "Katalaniera":
+      9
+    "Galego":
+      10
+    "Poloniera":
+      11
+    "Sueco":
+      12
+    "Danimarkako":
+      13
+    "Norvegiarra":
+      14
+    "Finlandés":
+      15
+    "Hungariera":
+      16
+    "Txekiarra":
+      17
+    "Eslovako":
+      18
+    "Errumaniar":
+      19
+    "bulgariera":
+      20
+    "Kroato":
+      21
+    "Serbio":
+      22
+    "Bosniako":
+      23
+    "Estoniera":
+      24
+    "Letoniera":
+      25
+    "Lituaniera":
+      26
+    "greziar":
+      27
+    "Hebreera":
+      28
+    "arabiera":
+      29
+    "turkiar":
+      30
+    "Tailandiera":
+      31
+    "Errusiera":
+      32
+    "Ukrainiera":
+      33
+    "persiera":
+      34
+    "Swahili":
+      35
+    "Hindi":
+      36
+    "Tamil":
+      37
+    "Indonesiera":
+      38
+    "Vietnamese":
+      39
+    "Txinera":
+      40
+    "Koreera":
+      41
+    "Japoniera":
+      42
+    "Malayo":
+      43
+    "Azerbaijani":
+      44
+    "armeniera":
+      45
+    "kazako":
+      46
+    "Mazedoniera":
+      47
+    "Māori":
+      48
+    "Nepalera":
+      49
+    "Islandiako":
+      50
+    "Afrikánes":
+      51
+    "Tagalo":
+      52
+    "Kanada":
+      53
+    "Marathi":
+      54
+    "Esloveno":
+      55
+    "Gallese":
+      56
+    "Bielorrusiera":
+      57
+    "urdu":
+      58
+  language_learning_levels:
+    "Hasierako (A1)":
+      1
+    "Aldibereko (A2)":
+      2
+    "Eguneroko (B1)":
+      3
+    "Goi-maila (B2)":
+      4
+    "Aurreratua (C1)":
+      5
+    "Aurreratu (C2)":
+      6
+  normal_texts: 
+    "Testu normala"
+  type_topic_conversation: 
+    "Idatzi elkarrizketaren gaia"
+  type_topic_monologue: 
+    "Idatzi monologoaren gaia"
+  topic_entered: 
+    "Sartu elkarrizketaren gaia"
+  new_conversation: 
+    "Hitzaldiaren gaia idatzi"
+  new_monologue: 
+    "Monologo Berria"
+  conversation_level_selected: 
+    "Hitzaldiko maila"
+  languages_selected: 
+    "Hizkuntzak Aukeratuta"
+  back_to_create_a_new_conversation: 
+    "Berreskuratu solasaldi berri bat sortzeko"
+  pronounced as: 
+    "pronuntziatua bezala"
+  according_to_phonetic_transcription: 
+    "Nazioarteko Fonemaren Alfabetoaren arabera"
+  no_conversations_available: 
+    "Ez dago elkarrizketarik eskuragarri."
+  no_monologues_available: 
+    "Monologoak ez daude eskuragarri"
+  audience: 
+    "Publikoa"
+  language: 
+    "Hizkuntza"
+  tokens_used: 
+    "Tokenak erabilita"
+  view: 
+    "Ikusi"
+  please_wait: 
+    "Mesedez, itxaron."
+  search: 
+    "Bilatu"
+  create_conversation: 
+    "Sortu elkarrizketa"
+  create_monologue: 
+    "Monologo sortu"
+  select_language_1: 
+    "Hautatu lehen hizkuntza"
+  select_language_2: 
+    "Hautatu bigarren hizkuntza"
+  select_conversation_level: 
+    "Hautatu elkarrizketa maila"
+  select_monologue_level: 
+    "Aukeratu monologo maila"
+  find_more_conversations_created: 
+    "Aurkitutako Elkarrizketa Gehiago"
+  find_more_monologues_created: 
+    "Aurkitu gehiago monologoak sortu."
+  we_are_creating_your_bilingual_conversation: 
+    "Zure elebidun elkarrizketa sortzen ari gara"
+  we_are_creating_your_bilingual_monologue: 
+    "Zure elebidun monologoa sortzen ari gara"
+  search_language: 
+    "Bilatu hizkuntza"
+  no_results_found: 
+    "Emaitzarik aurkitu ez da."
+  enable_audio_language_1:
+    "Lehen hizkuntzarako audioa aktibatu."
+  enable_audio_language_2:
+    "Bigarren hizkuntzarako audioa aktibatu."
